@@ -1,0 +1,271 @@
+run:
+  score_thresholds:
+    jobsdb: 78
+    linkedin: 75
+    official: 70
+  max_jobs_per_source: 50
+  notification_candidate_limit: 30
+  report_limit: 200
+  send_empty_updates: false
+  scan_intervals:
+    fast_hours: 12
+    slow_hours: 36
+    slow_initial_delay_hours: 6
+filters:
+  target_locations:
+  - Hong Kong
+  - Singapore
+  - Seoul
+  - Korea
+  - Tokyo
+  - Japan
+  - Remote
+  positive_keywords:
+  - graduate
+  - analyst
+  - associate
+  - trainee
+  - finance
+  - consulting
+  - consultant
+  - restructuring
+  - turnaround
+  - risk
+  - compliance
+  - advisory
+  - deals
+  - business analyst
+  - strategy
+  - operations
+  - transformation
+  - digital transformation
+  - fp&a
+  - valuation
+  - payment
+  - fintech
+  - supply chain
+  - management trainee
+  exclude_keywords:
+  - insurance sales
+  - wealth management manager
+  - wealth management consultant
+  - insurance agent
+  - sales manager
+  - sales executive
+  - barista
+  - waiter
+  - marketing officer
+  - digital marketing executive
+  - customer service
+  - senior manager
+  - assistant manager
+  - vice president
+  - avp
+  - vp
+  - head of
+  - director
+  - lead generation
+  - human resources
+  - hr associate
+  - billing operations
+  - test automation
+  - sales officer
+  - administrative
+  - relationship manager
+  - business development executive
+  - recruitment consultant
+  negative_keywords:
+  - senior manager
+  - director
+  - head of
+  - vp
+  - vice president
+  - 3 years
+  - 4 years
+  - 5 years
+  - 5+ years
+  - 6 years
+  - 7 years
+  - 7+ years
+  - 8 years
+  - 9 years
+  - 10 years
+  - native korean
+  - fluent korean required
+  - business korean required
+  - japanese n1
+  - japanese n2
+  - native japanese
+  - administrative assistant - insurance sales
+  - wealth management manager
+  - wealth management consultant
+  - insurance agent
+  - sales manager
+  - sales executive
+  - sales officer
+  - agency business development
+  - barista
+  - customer service
+  - senior manager
+  - assistant manager
+  - vice president
+  - avp
+  - vp
+  - head of
+  - director
+  - Singaporean
+  max_required_years: 2
+  blacklist_companies:
+  - AIA
+  - AIA Hong Kong
+  - AIA Hong Kong and Macau
+  - AIA International
+  - AIA International Limited
+  - AXA
+  - AXA Hong Kong
+  - Acton Consulting
+  - Acton Consulting Limited
+  - Allianz
+  - BOC Life
+  - BOCG Insurance
+  - Blue Cross
+  - China Life
+  - China Life Insurance
+  - Chubb Life
+  - Cigna
+  - FWD
+  - FWD Hong Kong
+  - Generali
+  - Great Eastern
+  - Great Eastern Financial Advisers
+  - Manulife
+  - Manulife Hong Kong
+  - Prudential
+  - Prudential Hong Kong
+  - QBE
+  - Sun Life
+  - Sun Life Hong Kong
+  - YF Life
+  - Zurich Insurance
+  tech_mismatch_title_keywords:
+  - analyst programmer
+  - application developer
+  - back-end developer
+  - backend developer
+  - cloud engineer
+  - devops engineer
+  - infrastructure engineer
+  - java developer
+  - oracle cloud engineer
+  - programmer
+  - software developer
+  - software engineer
+  - system engineer
+  - systems engineer
+  erp_implementation_keywords:
+  - ebs/fusion
+  - erp implementation
+  - functional consultant
+  - implementation consultant
+  - oracle certification
+  - oracle cloud consultant
+  - oracle cloud engineer
+  - oracle ebs
+  - oracle fusion
+  - system implementation
+  - technical consultant
+  backend_stack_keywords:
+  - hibernate
+  - j2ee
+  - java
+  - servlets
+  - spring
+  - struts
+telegram:
+  message_title: Job Fit Radar
+  max_roles_per_message: 10
+ai:
+  min_rule_score: 50
+  provider: rules
+  model: gemini-2.5-flash
+dashboard:
+  min_region_score: 50
+ai_screening:
+  min_score: 80
+  candidate_limit: 10
+  exclude_confidence: 70
+  provider: gemini
+  model: gemini-2.5-flash
+  request_delay_seconds: 6
+company_quality:
+  preferred_company_bonus: 5
+  risk_penalty: 20
+  weak_company_penalty: 8
+  preferred_companies:
+  - Deloitte
+  - EY
+  - KPMG
+  - PwC
+  - JPMorgan
+  - JPMorganChase
+  - Goldman Sachs
+  - Morgan Stanley
+  - Citi
+  - HSBC
+  - MUFG
+  - Natixis
+  - BNP Paribas
+  - American Express
+  - Bloomberg
+  - Futu
+  - Synpulse
+  - Accenture
+  - Shopee
+  - DBS
+  - OCBC
+  - Samsung
+  - Hermès
+  - Micron
+  - Seagate
+  - ByteDance
+  - Google
+  - Mastercard
+  strong_exclude_terms:
+  - insurance agent
+  - financial adviser
+  - financial advisor
+  - financial planning associate
+  - financial planner
+  - wealth management consultant
+  - wealth consultant
+  - financial services consultant
+  - personal consultant
+  - sales consultant
+  - education sales consultant
+  - property consultant
+  - relationship manager
+  - lead generation
+  - agency development
+  - client acquisition
+  - commission
+  - unlimited income
+  risk_terms:
+  - business development
+  - sales executive
+  - sales officer
+  - sales manager
+  - recruitment consultant
+  - presales consultant
+  - client consultant
+  - investment consultant
+  - consultant trainee
+  - asset management consultant
+  - insurance operations
+  - life insurance
+  - agency
+  - work from home
+detail_enrichment:
+  enabled: true
+  min_score: 60
+  limit: 80
+  delay_seconds: 1.2

@@ -1,0 +1,61 @@
+sources:
+- name: LinkedIn HK - Graduate Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Hong Kong
+  url: https://www.linkedin.com/jobs/search/?keywords=Graduate%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn HK - Finance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Hong Kong
+  url: https://www.linkedin.com/jobs/search/?keywords=Finance%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn HK - Consulting Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Hong Kong
+  url: https://www.linkedin.com/jobs/search/?keywords=Consulting%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn HK - Compliance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Hong Kong
+  url: https://www.linkedin.com/jobs/search/?keywords=Compliance%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn HK - Business Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Hong Kong
+  url: https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn SG - Graduate Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Graduate%20Analyst&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn SG - Finance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Finance%20Analyst&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn SG - Consulting Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Consulting%20Analyst&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn SG - Compliance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Compliance%20Analyst&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn SG - Business Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true

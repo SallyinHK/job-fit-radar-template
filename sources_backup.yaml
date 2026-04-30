@@ -1,0 +1,132 @@
+# Job Fit Radar sources
+# Strategy for this version:
+# 1) JobsDB + LinkedIn: monitor public search-result URLs with recent/24h filters where possible.
+#    If a platform changes its URL parameters, open the site in browser, set filters manually,
+#    copy the final URL, and replace the url below.
+# 2) Official sites: only Big Four Hong Kong/CN campus pages + BNP Paribas Hong Kong.
+#
+# This tool does NOT log in, solve CAPTCHA, use proxies, or bypass anti-bot measures.
+
+sources:
+  # -----------------------------
+  # JobsDB Hong Kong searches
+  # -----------------------------
+  - name: JobsDB HK - Graduate Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/graduate-analyst-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  - name: JobsDB HK - Finance Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/finance-analyst-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  - name: JobsDB HK - Consulting Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/consulting-analyst-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  - name: JobsDB HK - Compliance Risk Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/compliance-risk-analyst-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  - name: JobsDB HK - Business Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/business-analyst-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  - name: JobsDB HK - Management Trainee recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/management-trainee-jobs?sortmode=ListedDate&daterange=1"
+    enabled: true
+
+  # -----------------------------
+  # LinkedIn Hong Kong searches
+  # f_TPR=r86400 = past 24 hours; sortBy=DD = most recent.
+  # LinkedIn may block automated requests. If blocked, keep these URLs as manual quick-open links.
+  # -----------------------------
+  - name: LinkedIn HK - Graduate Analyst 24h
+    type: search_page
+    platform: linkedin
+    location: Hong Kong
+    url: "https://www.linkedin.com/jobs/search/?keywords=Graduate%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD"
+    enabled: true
+
+  - name: LinkedIn HK - Finance Analyst 24h
+    type: search_page
+    platform: linkedin
+    location: Hong Kong
+    url: "https://www.linkedin.com/jobs/search/?keywords=Finance%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD"
+    enabled: true
+
+  - name: LinkedIn HK - Consulting Analyst 24h
+    type: search_page
+    platform: linkedin
+    location: Hong Kong
+    url: "https://www.linkedin.com/jobs/search/?keywords=Consulting%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD"
+    enabled: true
+
+  - name: LinkedIn HK - Compliance Analyst 24h
+    type: search_page
+    platform: linkedin
+    location: Hong Kong
+    url: "https://www.linkedin.com/jobs/search/?keywords=Compliance%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD"
+    enabled: true
+
+  - name: LinkedIn HK - Business Analyst 24h
+    type: search_page
+    platform: linkedin
+    location: Hong Kong
+    url: "https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst&location=Hong%20Kong&f_TPR=r86400&sortBy=DD"
+    enabled: true
+
+  # -----------------------------
+  # Official sites: Big Four HK/CN campus + BNP Paribas HK
+  # -----------------------------
+  - name: BNP Paribas Hong Kong Jobs
+    type: webpage
+    company: BNP Paribas
+    location: Hong Kong
+    url: "https://group.bnpparibas/en/careers/all-job-offers/hong-kong"
+    enabled: true
+
+  - name: Deloitte China/HK Students & Graduates
+    type: webpage
+    company: Deloitte
+    location: Hong Kong
+    url: "https://www.deloitte.com/cn/en/cn-careers/students.html"
+    enabled: true
+
+  - name: EY Hong Kong Campus Recruitment
+    type: webpage
+    company: EY
+    location: Hong Kong
+    url: "https://www.ey.com/en_cn/careers/campus-recruitment-in-hong-kong"
+    enabled: true
+
+  - name: KPMG China/HK Graduate Programme
+    type: webpage
+    company: KPMG
+    location: Hong Kong
+    url: "https://kpmg.com/cn/en/careers/campus/graduate-applications.html"
+    enabled: true
+
+  - name: PwC China/HK Students
+    type: webpage
+    company: PwC
+    location: Hong Kong
+    url: "https://www.pwccn.com/en/careers/students.html"
+    enabled: true

@@ -1,0 +1,11 @@
+.env
+*.db
+__pycache__/
+.DS_Store
+outputs/
+debug_pages/
+*.code-workspace
+.ipynb_checkpoints/
+
+profile.md
+scan_log.txt

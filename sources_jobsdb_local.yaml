@@ -1,0 +1,91 @@
+sources:
+  # -----------------------------
+  # JobsDB Hong Kong local scan
+  # -----------------------------
+  - name: JobsDB HK - Graduate Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/graduate-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobsDB HK - Finance Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/finance-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobsDB HK - Consulting Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/consulting-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobsDB HK - Compliance Risk Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/compliance-risk-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobsDB HK - Business Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/business-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobsDB HK - Management Trainee recent
+    type: search_page
+    platform: jobsdb
+    location: Hong Kong
+    url: "https://hk.jobsdb.com/management-trainee-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+
+  # -----------------------------
+  # JobStreet Singapore local scan
+  # -----------------------------
+  - name: JobStreet SG - Graduate Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/graduate-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobStreet SG - Finance Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/finance-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobStreet SG - Consulting Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/consulting-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobStreet SG - Compliance Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/compliance-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobStreet SG - Business Analyst recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/business-analyst-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true
+
+  - name: JobStreet SG - Management Trainee recent
+    type: search_page
+    platform: jobsdb
+    location: Singapore
+    url: "https://sg.jobstreet.com/management-trainee-jobs?sortmode=ListedDate&daterange=7"
+    enabled: true

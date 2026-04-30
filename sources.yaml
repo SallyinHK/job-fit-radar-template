@@ -1,0 +1,109 @@
+sources:
+- name: JobsDB HK - Management Trainee recent
+  type: search_page
+  platform: jobsdb
+  location: Hong Kong
+  url: https://hk.jobsdb.com/management-trainee-jobs?sortmode=ListedDate&daterange=1
+  enabled: true
+- name: JobStreet SG - Management Trainee recent
+  type: search_page
+  platform: jobsdb
+  location: Singapore
+  url: https://sg.jobstreet.com/management-trainee-jobs?sortmode=ListedDate&daterange=1
+  enabled: true
+- name: LinkedIn SG - Management Trainee 24h
+  type: search_page
+  platform: linkedin
+  location: Singapore
+  url: https://www.linkedin.com/jobs/search/?keywords=Management%20Trainee&location=Singapore&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Korea - English Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Korea
+  url: https://www.linkedin.com/jobs/search/?keywords=English%20Analyst&location=Seoul%2C%20South%20Korea&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Korea - China Market Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Korea
+  url: https://www.linkedin.com/jobs/search/?keywords=China%20Market%20Analyst&location=Seoul%2C%20South%20Korea&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Korea - APAC Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Korea
+  url: https://www.linkedin.com/jobs/search/?keywords=APAC%20Analyst&location=Seoul%2C%20South%20Korea&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Korea - Finance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Korea
+  url: https://www.linkedin.com/jobs/search/?keywords=Finance%20Analyst&location=Seoul%2C%20South%20Korea&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Korea - Business Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Korea
+  url: https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst&location=Seoul%2C%20South%20Korea&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Japan - English Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Japan
+  url: https://www.linkedin.com/jobs/search/?keywords=English%20Analyst&location=Tokyo%2C%20Japan&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Japan - Mandarin Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Japan
+  url: https://www.linkedin.com/jobs/search/?keywords=Mandarin%20Analyst&location=Tokyo%2C%20Japan&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Japan - China Market Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Japan
+  url: https://www.linkedin.com/jobs/search/?keywords=China%20Market%20Analyst&location=Tokyo%2C%20Japan&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Japan - Finance Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Japan
+  url: https://www.linkedin.com/jobs/search/?keywords=Finance%20Analyst&location=Tokyo%2C%20Japan&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: LinkedIn Japan - Business Analyst 24h
+  type: search_page
+  platform: linkedin
+  location: Japan
+  url: https://www.linkedin.com/jobs/search/?keywords=Business%20Analyst&location=Tokyo%2C%20Japan&f_TPR=r86400&sortBy=DD
+  enabled: true
+- name: BNP Paribas Hong Kong Jobs
+  type: webpage
+  company: BNP Paribas
+  location: Hong Kong
+  url: https://group.bnpparibas/en/careers/all-job-offers/hong-kong
+  enabled: true
+- name: Deloitte China/HK Students & Graduates
+  type: webpage
+  company: Deloitte
+  location: Hong Kong
+  url: https://www.deloitte.com/cn/en/cn-careers/students.html
+  enabled: true
+- name: EY Hong Kong Campus Recruitment
+  type: webpage
+  company: EY
+  location: Hong Kong
+  url: https://www.ey.com/en_cn/careers/campus-recruitment-in-hong-kong
+  enabled: true
+- name: KPMG China/HK Graduate Programme
+  type: webpage
+  company: KPMG
+  location: Hong Kong
+  url: https://kpmg.com/cn/en/careers/campus/graduate-applications.html
+  enabled: true
+- name: PwC China/HK Students
+  type: webpage
+  company: PwC
+  location: Hong Kong
+  url: https://www.pwccn.com/en/careers/students.html
+  enabled: true
