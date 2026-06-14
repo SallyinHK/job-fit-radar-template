@@ -924,6 +924,50 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Risk, Credit Risk, Associate, Hong Kong",
+    "company": "Goldman Sachs",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/risk-credit-risk-associate-hong-kong-at-goldman-sachs-4407309933",
+    "score": 89,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Risk, Credit Risk, Associate, Hong Kong Risk, Credit Risk, Associate, Hong Kong Goldman Sachs Hong Kong, Hong Kong SAR Actively Hiring 15 hours ago",
+    "first_seen_at": "2026-06-13T08:50:18.279474+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.279475+00:00",
+    "original_score": 84,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Goldman Sachs."
+  },
+  {
+    "title": "T&L: Associate - Global Trade Advisory (Indirect Tax)",
+    "company": "Deloitte",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-global-trade-advisory-indirect-tax-at-deloitte-4424889255",
+    "score": 89,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, advisory",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "T&L: Associate - Global Trade Advisory (Indirect Tax) T&L: Associate - Global Trade Advisory (Indirect Tax) Deloitte Singapore, Singapore Be an early applicant 18 hours ago",
+    "first_seen_at": "2026-06-13T08:50:18.279443+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.279444+00:00",
+    "original_score": 84,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "FSO - Risk Consulting - FRM (Derivatives Valuation/Market Risk) - Experienced Hires - Hong Kong",
     "company": "EY",
     "location": "Hong Kong, Hong Kong SAR",
@@ -1144,26 +1188,26 @@
     "company_quality_reason": "Preferred company matched: JPMorgan."
   },
   {
-    "title": "Technology Intermediate Business Analyst (Officer)",
-    "company": "Citi",
-    "location": "Kowloon City District, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/technology-intermediate-business-analyst-officer-at-citi-4405000304",
-    "score": 89,
+    "title": "Risk, Market Risk (Commodities), Analyst/Associate, Singapore/Hong Kong",
+    "company": "Goldman Sachs",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/risk-market-risk-commodities-analyst-associate-singapore-hong-kong-at-goldman-sachs-4391805037",
+    "score": 93,
     "recommendation": "Apply",
     "priority": "High",
-    "source": "LinkedIn HK",
+    "source": "LinkedIn SG",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, business analyst",
+      "Matches target keywords: analyst, associate, risk",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
+      "Relevant role family: risk/compliance/kyc"
     ],
-    "description": "Technology Intermediate Business Analyst (Officer) Technology Intermediate Business Analyst (Officer) Citi Kowloon City District, Hong Kong SAR Actively Hiring 11 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303492+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303494+00:00",
-    "original_score": 84,
+    "description": "Risk, Market Risk (Commodities), Analyst/Associate, Singapore/Hong Kong Risk, Market Risk (Commodities), Analyst/Associate, Singapore/Hong Kong Goldman Sachs Singapore Actively Hiring 12 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.877989+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878003+00:00",
+    "original_score": 88,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Citi."
+    "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
     "title": "Intern, D&L Trade Compliance Data Analyst",
@@ -1316,6 +1360,28 @@
     "first_seen_at": "2026-06-10T02:45:27.679157+00:00",
     "last_seen_at": "2026-06-10T02:45:27.679160+00:00",
     "original_score": 87,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst/Digital Officer - InsurTech",
+    "company": "Inspire",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/business-analyst-digital-officer-insurtech-at-inspire-4428348120",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory, payment/fintech/data"
+    ],
+    "description": "Business Analyst/Digital Officer - InsurTech Business Analyst/Digital Officer - InsurTech Inspire Hong Kong, Hong Kong SAR Be an early applicant 17 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878035+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878038+00:00",
+    "original_score": 86,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -1538,94 +1604,6 @@
     "original_score": 86,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025)",
-    "company": "Shopee",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/fraud-data-analyst-intern-trust-and-safety-regional-operations-spring-2025-at-shopee-3611210025",
-    "score": 86,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, operations",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) Fraud Data Analyst Intern - Trust and Safety, Regional Operations (Spring 2025) Shopee Singapore, Singapore Actively Hiring 13 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303590+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303592+00:00",
-    "original_score": 81,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Shopee."
-  },
-  {
-    "title": "Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025)",
-    "company": "Shopee",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/data-analyst-intern-listing-and-content-regional-operations-fall-2025-at-shopee-4179455181",
-    "score": 86,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, operations",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) Data Analyst Intern - Listing and Content, Regional Operations (Fall 2025) Shopee Singapore, Singapore Actively Hiring 14 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303570+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303572+00:00",
-    "original_score": 81,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Shopee."
-  },
-  {
-    "title": "Business Analyst (Digital Professionals Accelerator Programme)",
-    "company": "AvePoint",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-digital-professionals-accelerator-programme-at-avepoint-4413866055",
-    "score": 86,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory, payment/fintech/data"
-    ],
-    "description": "Business Analyst (Digital Professionals Accelerator Programme) Business Analyst (Digital Professionals Accelerator Programme) AvePoint Singapore, Singapore Actively Hiring 5 hours ago",
-    "first_seen_at": "2026-06-06T08:27:30.498019+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303429+00:00",
-    "original_score": 86,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome",
-    "company": "AIA Hong Kong and Macau",
-    "location": "Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/business-consultant-trainee-wealth-management-%E2%80%93-fresh-graduate-iang-welcome-at-aia-hong-kong-and-macau-4426936322",
-    "score": 0,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, trainee, consultant",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome AIA Hong Kong and Macau Hong Kong SAR Be an early applicant 10 hours ago",
-    "first_seen_at": "2026-06-12T20:01:40.215892+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.279420+00:00",
-    "original_score": 85,
-    "company_quality_decision": "exclude",
-    "company_quality_reason": "Company is blacklisted: AIA."
   },
   {
     "title": "Junior Agile Business Analyst / Product Owner (Full-time / Internship)",
@@ -1958,26 +1936,26 @@
     "company_quality_reason": "Preferred company matched: BNP Paribas."
   },
   {
-    "title": "Junior Finance Operations Executive - Budgeting, Forecasting (FP&A), Banking",
-    "company": "Smart IMS Inc.",
+    "title": "Analyst, Infrastructure Finance - CIB",
+    "company": "HSBC",
     "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/junior-finance-operations-executive-budgeting-forecasting-fp-a-banking-at-smart-ims-inc-4424665599",
-    "score": 85,
+    "url": "https://sg.linkedin.com/jobs/view/analyst-infrastructure-finance-cib-at-hsbc-4418102817",
+    "score": 89,
     "recommendation": "Apply",
     "priority": "High",
     "source": "LinkedIn SG",
-    "job_type": "Other / Review",
+    "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: finance, operations, fp&a",
+      "Matches target keywords: analyst, finance",
       "Looks potentially suitable for graduate / early-career search.",
       "Relevant role family: finance/accounting/valuation"
     ],
-    "description": "Junior Finance Operations Executive - Budgeting, Forecasting (FP&A), Banking Junior Finance Operations Executive - Budgeting, Forecasting (FP&A), Banking Smart IMS Inc. Singapore, Singapore 18 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303463+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303465+00:00",
-    "original_score": 85,
+    "description": "Analyst, Infrastructure Finance - CIB Analyst, Infrastructure Finance - CIB HSBC Singapore, Singapore Actively Hiring 11 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878064+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878066+00:00",
+    "original_score": 84,
     "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "company_quality_reason": "Preferred company matched: HSBC."
   },
   {
     "title": "Strategy Analyst",
@@ -2022,50 +2000,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Accenture."
-  },
-  {
-    "title": "Risk, Credit Risk, Associate, Hong Kong",
-    "company": "Goldman Sachs",
-    "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/risk-credit-risk-associate-hong-kong-at-goldman-sachs-4407309933",
-    "score": 89,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Risk, Credit Risk, Associate, Hong Kong Risk, Credit Risk, Associate, Hong Kong Goldman Sachs Hong Kong, Hong Kong SAR Actively Hiring 15 hours ago",
-    "first_seen_at": "2026-06-13T08:50:18.279474+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.279475+00:00",
-    "original_score": 84,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Goldman Sachs."
-  },
-  {
-    "title": "T&L: Associate - Global Trade Advisory (Indirect Tax)",
-    "company": "Deloitte",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-global-trade-advisory-indirect-tax-at-deloitte-4424889255",
-    "score": 89,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, advisory",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "T&L: Associate - Global Trade Advisory (Indirect Tax) T&L: Associate - Global Trade Advisory (Indirect Tax) Deloitte Singapore, Singapore Be an early applicant 18 hours ago",
-    "first_seen_at": "2026-06-13T08:50:18.279443+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.279444+00:00",
-    "original_score": 84,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Strategy Analyst",
@@ -2222,26 +2156,26 @@
     "company_quality_reason": "Preferred company matched: Synpulse."
   },
   {
-    "title": "Strategy & Analytics Associate - Regional Logistics",
-    "company": "Shopee",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/strategy-analytics-associate-regional-logistics-at-shopee-4258648239",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
+    "title": "Rewards & Talent Strategy Consulting Analyst",
+    "company": "Mercer",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/rewards-talent-strategy-consulting-analyst-at-mercer-4418087878",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: associate, strategy",
+      "Matches target keywords: analyst, consulting, strategy",
       "Looks potentially suitable for graduate / early-career search.",
       "Relevant role family: consulting/strategy/advisory"
     ],
-    "description": "Strategy & Analytics Associate - Regional Logistics Strategy & Analytics Associate - Regional Logistics Shopee Singapore, Singapore Actively Hiring 13 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303620+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303622+00:00",
-    "original_score": 79,
+    "description": "Rewards & Talent Strategy Consulting Analyst Rewards & Talent Strategy Consulting Analyst Mercer Hong Kong, Hong Kong SAR Actively Hiring 17 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878091+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878093+00:00",
+    "original_score": 83,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Shopee."
+    "company_quality_reason": ""
   },
   {
     "title": "Risk and Compliance Analyst, Foreign Corp Bank (25-33K)",
@@ -2286,28 +2220,6 @@
     "original_score": 83,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "IT Business Analyst (Health Transformation)",
-    "company": "Manulife",
-    "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/it-business-analyst-health-transformation-at-manulife-4406958907",
-    "score": 0,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst, transformation",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "IT Business Analyst (Health Transformation) IT Business Analyst (Health Transformation) Manulife Hong Kong, Hong Kong SAR 10 hours ago",
-    "first_seen_at": "2026-06-12T20:01:40.216017+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.279531+00:00",
-    "original_score": 83,
-    "company_quality_decision": "exclude",
-    "company_quality_reason": "Company is blacklisted: Manulife."
   },
   {
     "title": "Risk Operations Analyst (Mandarin Speaking)",
@@ -2794,46 +2706,24 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Consulting Analyst / Research Consultant",
-    "company": "CALDEIRA GEST - PRESTAÇÃO DE SERVIÇOS (SU),LDA",
-    "location": "Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/consulting-analyst-research-consultant-at-caldeira-gest-presta%C3%A7%C3%A3o-de-servi%C3%A7os-su-lda-4425152001",
-    "score": 83,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, consulting, consultant",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Consulting Analyst / Research Consultant Consulting Analyst / Research Consultant CALDEIRA GEST - PRESTAÇÃO DE SERVIÇOS (SU),LDA Hong Kong SAR Be an early applicant 3 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303550+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303552+00:00",
-    "original_score": 83,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst (Entry-Level / Associate)",
-    "company": "African Union Sports Council",
+    "title": "Data Analyst / Financial Analyst",
+    "company": "PT. Langkat Nusantara Kepong",
     "location": "Singapore River, Central Singapore Community Development Council, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-entry-level-associate-at-african-union-sports-council-4425156237",
-    "score": 83,
+    "url": "https://sg.linkedin.com/jobs/view/data-analyst-financial-analyst-at-pt-langkat-nusantara-kepong-4425709220",
+    "score": 82,
     "recommendation": "Apply",
     "priority": "High",
     "source": "LinkedIn SG",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, associate, business analyst",
+      "Matches target keywords: analyst",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
+      "Relevant role family: finance/accounting/valuation, payment/fintech/data"
     ],
-    "description": "Business Analyst (Entry-Level / Associate) Business Analyst (Entry-Level / Associate) African Union Sports Council Singapore River, Central Singapore Community Development Council, Singapore Be an early applicant 1 hour ago",
-    "first_seen_at": "2026-06-07T02:51:48.303519+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303521+00:00",
-    "original_score": 83,
+    "description": "Data Analyst / Financial Analyst Data Analyst / Financial Analyst PT. Langkat Nusantara Kepong Singapore River, Central Singapore Community Development Council, Singapore Be an early applicant 42 minutes ago",
+    "first_seen_at": "2026-06-14T02:55:37.878118+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878120+00:00",
+    "original_score": 82,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -2858,6 +2748,28 @@
     "original_score": 77,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Shopee."
+  },
+  {
+    "title": "Finance Transformation - Associate/Senior Associate, Business Consulting - Finance",
+    "company": "EY",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/finance-transformation-associate-senior-associate-business-consulting-finance-at-ey-4416797857",
+    "score": 82,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance, consulting, transformation",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory"
+    ],
+    "description": "Finance Transformation - Associate/Senior Associate, Business Consulting - Finance Finance Transformation - Associate/Senior Associate, Business Consulting - Finance EY Singapore, Singapore 17 hours ago",
+    "first_seen_at": "2026-06-13T08:50:18.280277+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.280278+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
   },
   {
     "title": "Data Analyst / Financial Analyst",
@@ -3168,26 +3080,48 @@
     "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
-    "title": "Sales and Marketing - Listed Structured Products - Analyst / Associate",
-    "company": "JPMorganChase",
-    "location": "Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/sales-and-marketing-listed-structured-products-analyst-associate-at-jpmorganchase-4406122751",
-    "score": 82,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
+    "title": "Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS）",
+    "company": "TikTok",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/data-analyst-project-intern-safety-model-operations-2026-start-bs-ms%EF%BC%89-at-tiktok-4368242721",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
     "reasons": [
-      "Matches target keywords: analyst, associate",
+      "Matches target keywords: analyst, operations",
       "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
+      "Relevant role family: payment/fintech/data"
     ],
-    "description": "Sales and Marketing - Listed Structured Products - Analyst / Associate Sales and Marketing - Listed Structured Products - Analyst / Associate JPMorganChase Hong Kong SAR Actively Hiring 16 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.304110+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.304112+00:00",
-    "original_score": 77,
+    "description": "Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS） Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS） TikTok Singapore, Singapore Actively Hiring 16 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878167+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878169+00:00",
+    "original_score": 81,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: JPMorgan."
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst Intern (July 26)",
+    "company": "AperioHub",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/business-analyst-intern-july-26-at-aperiohub-4427283727",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst Intern (July 26) Business Analyst Intern (July 26) AperioHub Singapore, Singapore 12 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878141+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878143+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Executive Trainee",
@@ -3476,6 +3410,28 @@
     "company_quality_reason": "Preferred company matched: Futu."
   },
   {
+    "title": "Business Analyst & CTRM Application Support",
+    "company": "Vitol",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/business-analyst-ctrm-application-support-at-vitol-4397618196",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst & CTRM Application Support Business Analyst & CTRM Application Support Vitol Singapore, Singapore Actively Hiring 12 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878198+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878200+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Business System Analyst – Finance (P2P/R2R)",
     "company": "CHANEL",
     "location": "Hong Kong SAR",
@@ -3738,28 +3694,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Analyst/Specialist/Consultant, Enterprise Analytics",
-    "company": "AIA Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/analyst-specialist-consultant-enterprise-analytics-at-aia-singapore-4386710889",
-    "score": 0,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, consultant",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Analyst/Specialist/Consultant, Enterprise Analytics Analyst/Specialist/Consultant, Enterprise Analytics AIA Singapore Singapore, Singapore 21 hours ago",
-    "first_seen_at": "2026-06-13T08:50:18.279847+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.279849+00:00",
-    "original_score": 79,
-    "company_quality_decision": "exclude",
-    "company_quality_reason": "Company is blacklisted: AIA."
   },
   {
     "title": "Business Analyst",
@@ -7810,358 +7744,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Strategy Analyst",
-    "company": "Consorcio Transporte Arequipa | Corredor Azul",
-    "location": "Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/strategy-analyst-at-consorcio-transporte-arequipa-corredor-azul-4421547898",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, strategy",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Strategy Analyst Strategy Analyst Consorcio Transporte Arequipa | Corredor Azul Hong Kong SAR Be an early applicant 2 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.304018+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.304020+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst - Insurance (WFH/Multiple Headcounts)",
-    "company": "TEKsystems",
-    "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/business-analyst-insurance-wfh-multiple-headcounts-at-teksystems-4247103602",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Analyst - Insurance (WFH/Multiple Headcounts) Business Analyst - Insurance (WFH/Multiple Headcounts) TEKsystems Hong Kong, Hong Kong SAR Actively Hiring 12 hours ago",
-    "first_seen_at": "2026-06-01T17:27:01.640190+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303998+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "AI Business Analyst",
-    "company": "Octopus InfoTech Limited",
-    "location": "Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/ai-business-analyst-at-octopus-infotech-limited-4424657420",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "AI Business Analyst AI Business Analyst Octopus InfoTech Limited Hong Kong SAR Be an early applicant 1 hour ago",
-    "first_seen_at": "2026-06-06T08:27:30.499099+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303971+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Lead Analyst RDD Finance Business Partner",
-    "company": "Dyson",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/lead-analyst-rdd-finance-business-partner-at-dyson-4415340444",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Lead Analyst RDD Finance Business Partner Lead Analyst RDD Finance Business Partner Dyson Singapore, Singapore Actively Hiring 17 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303919+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303921+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Lead Finance Analyst",
-    "company": "Dyson",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/lead-finance-analyst-at-dyson-4383488569",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Lead Finance Analyst Lead Finance Analyst Dyson Singapore, Singapore 17 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303897+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303899+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Associate - Finance & Accounting (Credit Management)",
-    "company": "Singtel",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/associate-finance-accounting-credit-management-at-singtel-4231791741",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Associate - Finance & Accounting (Credit Management) Associate - Finance & Accounting (Credit Management) Singtel Singapore, Singapore 16 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303876+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303878+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Global Customs Compliance & Logistics Analyst",
-    "company": "Williams-Sonoma, Inc.",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/global-customs-compliance-logistics-analyst-at-williams-sonoma-inc-4406109856",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, compliance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Global Customs Compliance & Logistics Analyst Global Customs Compliance & Logistics Analyst Williams-Sonoma, Inc. Singapore 10 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303853+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303854+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst (Automation & Business Insights) - Trust and Safety",
-    "company": "TikTok",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-automation-business-insights-trust-and-safety-at-tiktok-4424687415",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Analyst (Automation & Business Insights) - Trust and Safety Business Analyst (Automation & Business Insights) - Trust and Safety TikTok Singapore, Singapore Be an early applicant 8 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303831+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303833+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst",
-    "company": "AvePoint",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-at-avepoint-4384207658",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Analyst Business Analyst AvePoint Singapore Actively Hiring 11 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303808+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303810+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Remote Business Analyst (Chinese)",
-    "company": "Turing",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/remote-business-analyst-chinese-at-turing-4424985186",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Remote Business Analyst (Chinese) Remote Business Analyst (Chinese) Turing Singapore, Singapore Be an early applicant 2 hours ago",
-    "first_seen_at": "2026-06-06T08:27:30.498643+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303789+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Remote Business Analyst (Chinese)",
-    "company": "Turing",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/remote-business-analyst-chinese-at-turing-4424992159",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Remote Business Analyst (Chinese) Remote Business Analyst (Chinese) Turing Singapore, Singapore Be an early applicant 2 hours ago",
-    "first_seen_at": "2026-06-06T08:27:30.498666+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303766+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Remote Business Analyst (Chinese)",
-    "company": "Turing",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/remote-business-analyst-chinese-at-turing-4425100026",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Remote Business Analyst (Chinese) Remote Business Analyst (Chinese) Turing Singapore, Singapore Be an early applicant 2 hours ago",
-    "first_seen_at": "2026-06-06T08:27:30.498688+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303742+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Technical Business Analyst",
-    "company": "The Software Practice Pte Ltd",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/technical-business-analyst-at-the-software-practice-pte-ltd-4424651638",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Technical Business Analyst Technical Business Analyst The Software Practice Pte Ltd Singapore Be an early applicant 18 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303714+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303716+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst cum Software Tester",
-    "company": "AvePoint",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-cum-software-tester-at-avepoint-4240798794",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Analyst cum Software Tester Business Analyst cum Software Tester AvePoint Singapore Actively Hiring 8 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303691+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303693+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Analyst (CRM Focus)",
-    "company": "AvePoint",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-analyst-crm-focus-at-avepoint-4384206631",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Business Analyst (CRM Focus) Business Analyst (CRM Focus) AvePoint Singapore Actively Hiring 11 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303669+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303671+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Analyst, Anti-Money Laundering (Compliance)",
-    "company": "Marina Bay Sands",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/analyst-anti-money-laundering-compliance-at-marina-bay-sands-4375664594",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, compliance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Analyst, Anti-Money Laundering (Compliance) Analyst, Anti-Money Laundering (Compliance) Marina Bay Sands Singapore, Singapore 11 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.303645+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.303647+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
     "title": "Consultant – Security Risk & Strategy",
     "company": "Arup",
     "location": "Singapore, Singapore",
@@ -8294,26 +7876,70 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Finance Transformation - Associate/Senior Associate, Business Consulting - Finance",
-    "company": "EY",
+    "title": "Financial Securities - Reference Data Operations Analyst",
+    "company": "JPMorganChase",
     "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/finance-transformation-associate-senior-associate-business-consulting-finance-at-ey-4416797857",
+    "url": "https://sg.linkedin.com/jobs/view/financial-securities-reference-data-operations-analyst-at-jpmorganchase-4409128682",
     "score": 82,
     "recommendation": "Maybe",
     "priority": "Medium",
     "source": "LinkedIn SG",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: associate, finance, consulting, transformation",
+      "Matches target keywords: analyst, operations",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory"
+      "Priority company or target employer group."
     ],
-    "description": "Finance Transformation - Associate/Senior Associate, Business Consulting - Finance Finance Transformation - Associate/Senior Associate, Business Consulting - Finance EY Singapore, Singapore 17 hours ago",
-    "first_seen_at": "2026-06-13T08:50:18.280277+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.280278+00:00",
+    "description": "Financial Securities - Reference Data Operations Analyst Financial Securities - Reference Data Operations Analyst JPMorganChase Singapore, Singapore Actively Hiring 17 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878267+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878269+00:00",
     "original_score": 77,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: EY."
+    "company_quality_reason": "Preferred company matched: JPMorgan."
+  },
+  {
+    "title": "Data Analyst Program Intern (TikTok Shop Recommendation) - 2026 Start(BS/MS)",
+    "company": "TikTok",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/data-analyst-program-intern-tiktok-shop-recommendation-2026-start-bs-ms-at-tiktok-4398140345",
+    "score": 77,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst Program Intern (TikTok Shop Recommendation) - 2026 Start(BS/MS) Data Analyst Program Intern (TikTok Shop Recommendation) - 2026 Start(BS/MS) TikTok Singapore, Singapore Actively Hiring 16 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878242+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878244+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Forward Deployed AI Scientist, Internship , Singapore- BCG X",
+    "company": "Boston Consulting Group (BCG)",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/forward-deployed-ai-scientist-internship-singapore-bcg-x-at-boston-consulting-group-bcg-4398189442",
+    "score": 77,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: consulting",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Forward Deployed AI Scientist, Internship , Singapore- BCG X Forward Deployed AI Scientist, Internship , Singapore- BCG X Boston Consulting Group (BCG) Singapore, Singapore Actively Hiring 10 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878221+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878223+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Intern - Compliance (Transaction Monitoring)",
@@ -8536,28 +8162,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS)",
-    "company": "TikTok",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/data-analyst-project-intern-tiktok-shop-2026-start-bs-ms-at-tiktok-4424654048",
-    "score": 77,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS) Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS) TikTok Singapore, Singapore Be an early applicant 23 hours ago",
-    "first_seen_at": "2026-06-07T02:51:48.304088+00:00",
-    "last_seen_at": "2026-06-07T02:51:48.304089+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
     "title": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
     "company": "Deloitte",
     "location": "Hong Kong",
@@ -8578,6 +8182,28 @@
     "original_score": 71,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
+    "title": "Data Analyst (Growth) - Singapore",
+    "company": "Plaud",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/data-analyst-growth-singapore-at-plaud-4358851703",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst (Growth) - Singapore Data Analyst (Growth) - Singapore Plaud Singapore, Singapore 15 hours ago",
+    "first_seen_at": "2026-06-14T02:55:37.878290+00:00",
+    "last_seen_at": "2026-06-14T02:55:37.878292+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Binance Accelerator Program - Research On Chain Data Analyst",
@@ -8622,28 +8248,6 @@
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Procurement & Agency Data Analyst, SPX Singapore",
-    "company": "Shopee",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/procurement-agency-data-analyst-spx-singapore-at-shopee-4397237009",
-    "score": 60,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Procurement & Agency Data Analyst, SPX Singapore Procurement & Agency Data Analyst, SPX Singapore Shopee Singapore, Singapore 5 hours ago",
-    "first_seen_at": "2026-06-12T20:01:40.216923+00:00",
-    "last_seen_at": "2026-06-13T08:50:18.280381+00:00",
-    "original_score": 75,
-    "company_quality_decision": "review",
-    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched.; Preferred company matched: Shopee."
   },
   {
     "title": "[Singapore-Hybrid] Python Data Analyst/Data Scientist",
@@ -10120,6 +9724,28 @@
     "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched.; Preferred company matched: Shopee."
   },
   {
+    "title": "Procurement & Agency Data Analyst, SPX Singapore",
+    "company": "Shopee",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/procurement-agency-data-analyst-spx-singapore-at-shopee-4397237009",
+    "score": 60,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Procurement & Agency Data Analyst, SPX Singapore Procurement & Agency Data Analyst, SPX Singapore Shopee Singapore, Singapore 5 hours ago",
+    "first_seen_at": "2026-06-12T20:01:40.216923+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.280381+00:00",
+    "original_score": 75,
+    "company_quality_decision": "review",
+    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched.; Preferred company matched: Shopee."
+  },
+  {
     "title": "見習地產營業員/持牌物業顧問(工作六小時)( 歡迎應屆畢業生加入,享有專業在職培訓) (屯門/天水圍)(Property Consultant Trainee/ Property Consultant)",
     "company": "祥益地產代理有限公司",
     "location": "Hong Kong SAR",
@@ -10140,6 +9766,72 @@
     "original_score": 81,
     "company_quality_decision": "exclude",
     "company_quality_reason": "Strong sales / insurance / wealth-management risk keyword matched."
+  },
+  {
+    "title": "Analyst/Specialist/Consultant, Enterprise Analytics",
+    "company": "AIA Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/analyst-specialist-consultant-enterprise-analytics-at-aia-singapore-4386710889",
+    "score": 0,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Analyst/Specialist/Consultant, Enterprise Analytics Analyst/Specialist/Consultant, Enterprise Analytics AIA Singapore Singapore, Singapore 21 hours ago",
+    "first_seen_at": "2026-06-13T08:50:18.279847+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.279849+00:00",
+    "original_score": 79,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AIA."
+  },
+  {
+    "title": "IT Business Analyst (Health Transformation)",
+    "company": "Manulife",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/it-business-analyst-health-transformation-at-manulife-4406958907",
+    "score": 0,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst, transformation",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "IT Business Analyst (Health Transformation) IT Business Analyst (Health Transformation) Manulife Hong Kong, Hong Kong SAR 10 hours ago",
+    "first_seen_at": "2026-06-12T20:01:40.216017+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.279531+00:00",
+    "original_score": 83,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: Manulife."
+  },
+  {
+    "title": "Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome",
+    "company": "AIA Hong Kong and Macau",
+    "location": "Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/business-consultant-trainee-wealth-management-%E2%80%93-fresh-graduate-iang-welcome-at-aia-hong-kong-and-macau-4426936322",
+    "score": 0,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, trainee, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome Business Consultant Trainee (Wealth Management) – Fresh Graduate / IANG Welcome AIA Hong Kong and Macau Hong Kong SAR Be an early applicant 10 hours ago",
+    "first_seen_at": "2026-06-12T20:01:40.215892+00:00",
+    "last_seen_at": "2026-06-13T08:50:18.279420+00:00",
+    "original_score": 85,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AIA."
   },
   {
     "title": "Business Analyst",
