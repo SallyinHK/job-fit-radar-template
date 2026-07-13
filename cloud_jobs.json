@@ -176,6 +176,28 @@
     "company_quality_reason": "Preferred company matched: EY."
   },
   {
+    "title": "Corporate Finance Analyst",
+    "company": "Sloane Shorey Consulting",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/corporate-finance-analyst-at-sloane-shorey-consulting-4439760679",
+    "score": 100,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance, consulting",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory"
+    ],
+    "description": "Corporate Finance Analyst Corporate Finance Analyst Sloane Shorey Consulting Singapore, Singapore 7 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326234+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326247+00:00",
+    "original_score": 95,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
     "title": "T&L: Associate - Global Trade Advisory (2026 Graduate)",
     "company": "Deloitte",
     "location": "Singapore, Singapore",
@@ -262,6 +284,28 @@
     "original_score": 90,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: KPMG."
+  },
+  {
+    "title": "Digital Transformation / Business Analyst",
+    "company": "ESG Value Advisors",
+    "location": "Singapore River, Central Singapore Community Development Council, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/digital-transformation-business-analyst-at-esg-value-advisors-4439110982",
+    "score": 94,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst, transformation, digital transformation",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory, payment/fintech/data"
+    ],
+    "description": "Digital Transformation / Business Analyst Digital Transformation / Business Analyst ESG Value Advisors Singapore River, Central Singapore Community Development Council, Singapore 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326278+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326281+00:00",
+    "original_score": 94,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Business Analyst Digital Transformation (Top-tier Financial Institution) - J12547",
@@ -528,6 +572,28 @@
     "company_quality_reason": "Preferred company matched: PwC."
   },
   {
+    "title": "Business Analyst - Finance and Data",
+    "company": "SCIENTE",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/business-analyst-finance-and-data-at-sciente-4439124248",
+    "score": 90,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst - Finance and Data Business Analyst - Finance and Data SCIENTE Singapore, Singapore 7 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326307+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326309+00:00",
+    "original_score": 90,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Digital Transformation Analyst",
     "company": "Capgemini Invent",
     "location": "Quarry Bay, Hong Kong SAR",
@@ -770,26 +836,26 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Finance Business Analyst",
-    "company": "GOLDTECH RESOURCES PTE LTD",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/finance-business-analyst-at-goldtech-resources-pte-ltd-4437107436",
-    "score": 90,
+    "title": "(Graduate Program) Wealth Management Trainee / Financial Consultant",
+    "company": "AIA Hong Kong and Macau",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/graduate-program-wealth-management-trainee-financial-consultant-at-aia-hong-kong-and-macau-4439137840",
+    "score": 0,
     "recommendation": "Apply",
     "priority": "High",
-    "source": "LinkedIn SG",
+    "source": "LinkedIn HK",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, finance, business analyst",
+      "Matches target keywords: graduate, trainee, consultant, management trainee",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory"
+      "Relevant role family: consulting/strategy/advisory"
     ],
-    "description": "Finance Business Analyst Finance Business Analyst GOLDTECH RESOURCES PTE LTD Singapore, Singapore Be an early applicant 12 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.867808+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.867811+00:00",
-    "original_score": 90,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "description": "(Graduate Program) Wealth Management Trainee / Financial Consultant (Graduate Program) Wealth Management Trainee / Financial Consultant AIA Hong Kong and Macau Hong Kong, Hong Kong SAR Be an early applicant 30 minutes ago",
+    "first_seen_at": "2026-07-13T08:55:38.326335+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326338+00:00",
+    "original_score": 89,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AIA."
   },
   {
     "title": "Financial Analyst – Corporate Finance (M&A)",
@@ -1430,6 +1496,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Digital Business Analyst - Insurance",
+    "company": "Oliver James",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/digital-business-analyst-insurance-at-oliver-james-4439138840",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory, payment/fintech/data"
+    ],
+    "description": "Digital Business Analyst - Insurance Digital Business Analyst - Insurance Oliver James Hong Kong, Hong Kong SAR Be an early applicant 20 minutes ago",
+    "first_seen_at": "2026-07-13T08:55:38.326363+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326365+00:00",
+    "original_score": 86,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Digital Business Analyst (Marketing & E-commerce)",
     "company": "Lectron",
     "location": "Kowloon, Hong Kong SAR",
@@ -1624,6 +1712,28 @@
     "first_seen_at": "2026-07-06T15:17:31.124617+00:00",
     "last_seen_at": "2026-07-07T09:29:46.468611+00:00",
     "original_score": 86,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Executive Search Consultant (Graduate Program)",
+    "company": "SearchAsia Consulting",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/executive-search-consultant-graduate-program-at-searchasia-consulting-4370784998",
+    "score": 85,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, consulting, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Executive Search Consultant (Graduate Program) Executive Search Consultant (Graduate Program) SearchAsia Consulting Singapore, Singapore 6 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326389+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326391+00:00",
+    "original_score": 85,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -1870,26 +1980,26 @@
     "company_quality_reason": "Preferred company matched: Citi."
   },
   {
-    "title": "Facilities Management Trainee",
-    "company": "Security & Risk Solutions Pte Ltd",
-    "location": "Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/facilities-management-trainee-at-security-risk-solutions-pte-ltd-4437109881",
-    "score": 85,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
+    "title": "Strategy Analyst",
+    "company": "Futu Holdings Limited",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/strategy-analyst-at-futu-holdings-limited-4437218202",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: trainee, risk, management trainee",
+      "Matches target keywords: analyst, strategy",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
+      "Relevant role family: consulting/strategy/advisory"
     ],
-    "description": "Facilities Management Trainee Facilities Management Trainee Security & Risk Solutions Pte Ltd Singapore Be an early applicant 4 hours ago",
-    "first_seen_at": "2026-07-06T02:32:08.420040+00:00",
-    "last_seen_at": "2026-07-06T02:32:08.420054+00:00",
-    "original_score": 85,
+    "description": "Strategy Analyst Strategy Analyst Futu Holdings Limited Hong Kong, Hong Kong SAR Actively Hiring 9 hours ago",
+    "first_seen_at": "2026-07-12T18:57:13.999276+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326913+00:00",
+    "original_score": 79,
     "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "company_quality_reason": "Preferred company matched: Futu."
   },
   {
     "title": "T&L: Associate - Transfer Pricing (2026 Graduate)",
@@ -2218,6 +2328,50 @@
     "first_seen_at": "2026-07-07T09:29:46.468759+00:00",
     "last_seen_at": "2026-07-07T09:29:46.468761+00:00",
     "original_score": 84,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Trade Finance Operations Analyst",
+    "company": "BBVA",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/trade-finance-operations-analyst-at-bbva-4437250565",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Trade Finance Operations Analyst Trade Finance Operations Analyst BBVA Singapore, Singapore Be an early applicant 1 hour ago",
+    "first_seen_at": "2026-07-13T08:55:38.326446+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326448+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Innovation & AI Technology Lead Business Analyst - Leading Financial Services",
+    "company": "Kerry Consulting",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/innovation-ai-technology-lead-business-analyst-leading-financial-services-at-kerry-consulting-4437256182",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, consulting, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Innovation & AI Technology Lead Business Analyst - Leading Financial Services Innovation & AI Technology Lead Business Analyst - Leading Financial Services Kerry Consulting Singapore, Singapore Be an early applicant 49 minutes ago",
+    "first_seen_at": "2026-07-13T08:55:38.326416+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326418+00:00",
+    "original_score": 83,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -3058,6 +3212,50 @@
     "company_quality_reason": "Preferred company matched: MUFG."
   },
   {
+    "title": "Junior Design & Business Analyst (Chinese speaker)",
+    "company": "BRIDGE AI GAMING LIMITED",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/junior-design-business-analyst-chinese-speaker-at-bridge-ai-gaming-limited-4383463136",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Junior Design & Business Analyst (Chinese speaker) Junior Design & Business Analyst (Chinese speaker) BRIDGE AI GAMING LIMITED Hong Kong, Hong Kong SAR 4 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326500+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326502+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Trainee Officer, Export Finance APAC (1 Year Contract)",
+    "company": "Crédit Agricole CIB",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/trainee-officer-export-finance-apac-1-year-contract-at-cr%C3%A9dit-agricole-cib-4437247165",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: trainee, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Trainee Officer, Export Finance APAC (1 Year Contract) Trainee Officer, Export Finance APAC (1 Year Contract) Crédit Agricole CIB Singapore, Singapore Be an early applicant 4 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326473+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326475+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS）",
     "company": "TikTok",
     "location": "Singapore, Singapore",
@@ -3388,48 +3586,26 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Uni Internship Jan to July 2027 - Business Analyst, Tandem",
-    "company": "Synapxe",
+    "title": "Principal Business Intelligence Analyst, SMAI",
+    "company": "Micron Technology",
     "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/uni-internship-jan-to-july-2027-business-analyst-tandem-at-synapxe-4437122407",
-    "score": 81,
-    "recommendation": "Apply",
-    "priority": "High",
+    "url": "https://sg.linkedin.com/jobs/view/principal-business-intelligence-analyst-smai-at-micron-technology-4410853119",
+    "score": 80,
+    "recommendation": "Maybe",
+    "priority": "Medium",
     "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
+    "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, business analyst",
+      "Matches target keywords: analyst",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
+      "Relevant role family: payment/fintech/data"
     ],
-    "description": "Uni Internship Jan to July 2027 - Business Analyst, Tandem Uni Internship Jan to July 2027 - Business Analyst, Tandem Synapxe Singapore, Singapore Be an early applicant 5 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.867900+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.867901+00:00",
-    "original_score": 81,
+    "description": "Principal Business Intelligence Analyst, SMAI Principal Business Intelligence Analyst, SMAI Micron Technology Singapore, Singapore Actively Hiring 9 hours ago",
+    "first_seen_at": "2026-07-12T18:57:13.999420+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327036+00:00",
+    "original_score": 75,
     "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Uni Internship Jan to July 2027 - Business Analyst, HSG Analytics",
-    "company": "Synapxe",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/uni-internship-jan-to-july-2027-business-analyst-hsg-analytics-at-synapxe-4437127227",
-    "score": 81,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Uni Internship Jan to July 2027 - Business Analyst, HSG Analytics Uni Internship Jan to July 2027 - Business Analyst, HSG Analytics Synapxe Singapore, Singapore Be an early applicant 5 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.867878+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.867880+00:00",
-    "original_score": 81,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "company_quality_reason": "Preferred company matched: Micron."
   },
   {
     "title": "Business Intelligence Associate",
@@ -3542,67 +3718,67 @@
     "company_quality_reason": "Preferred company matched: Shopee."
   },
   {
-    "title": "Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore",
-    "company": "EY",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/senior-consultant-it-internal-audit-risk-consulting-ey-singapore-at-ey-4385033916",
-    "score": 80,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: consulting, consultant, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory, risk/compliance/kyc"
-    ],
-    "description": "Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore EY Singapore, Singapore Actively Hiring 11 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.868159+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868161+00:00",
-    "original_score": 75,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: EY."
-  },
-  {
-    "title": "Strategy Analyst",
-    "company": "Futu Holdings Limited",
+    "title": "Business Analyst (Low Latency Trading)",
+    "company": "Luxoft",
     "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/strategy-analyst-at-futu-holdings-limited-4437218202",
-    "score": 84,
+    "url": "https://hk.linkedin.com/jobs/view/business-analyst-low-latency-trading-at-luxoft-4439769911",
+    "score": 79,
     "recommendation": "Maybe",
     "priority": "Medium",
     "source": "LinkedIn HK",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, strategy",
+      "Matches target keywords: analyst, business analyst",
       "Looks potentially suitable for graduate / early-career search.",
       "Relevant role family: consulting/strategy/advisory"
     ],
-    "description": "Strategy Analyst Strategy Analyst Futu Holdings Limited Hong Kong, Hong Kong SAR Actively Hiring 9 hours ago",
-    "first_seen_at": "2026-07-12T18:57:13.999276+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999277+00:00",
+    "description": "Business Analyst (Low Latency Trading) Business Analyst (Low Latency Trading) Luxoft Hong Kong, Hong Kong SAR Be an early applicant 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326958+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326959+00:00",
     "original_score": 79,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Futu."
+    "company_quality_reason": ""
   },
   {
-    "title": "Business Risk Analyst (12-month contract)",
-    "company": "Hays",
+    "title": "Business Analyst - Low Latency Trading",
+    "company": "Luxoft",
     "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/business-risk-analyst-12-month-contract-at-hays-4439598819",
+    "url": "https://hk.linkedin.com/jobs/view/business-analyst-low-latency-trading-at-luxoft-4439786030",
     "score": 79,
     "recommendation": "Maybe",
     "priority": "Medium",
     "source": "LinkedIn HK",
-    "job_type": "Internship / Temporary",
+    "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, risk",
+      "Matches target keywords: analyst, business analyst",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
+      "Relevant role family: consulting/strategy/advisory"
     ],
-    "description": "Business Risk Analyst (12-month contract) Business Risk Analyst (12-month contract) Hays Hong Kong, Hong Kong SAR Be an early applicant 13 hours ago",
-    "first_seen_at": "2026-07-12T18:57:13.999254+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999256+00:00",
+    "description": "Business Analyst - Low Latency Trading Business Analyst - Low Latency Trading Luxoft Hong Kong, Hong Kong SAR Be an early applicant 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326935+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326937+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst - 30-45K / Month - Credit/Debit Card",
+    "company": "Argyll Scott",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/business-analyst-30-45k-month-credit-debit-card-at-argyll-scott-4439785619",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst - 30-45K / Month - Credit/Debit Card Business Analyst - 30-45K / Month - Credit/Debit Card Argyll Scott Hong Kong, Hong Kong SAR Be an early applicant 1 hour ago",
+    "first_seen_at": "2026-07-13T08:55:38.326886+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326887+00:00",
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -3624,7 +3800,315 @@
     ],
     "description": "Business Analyst, Consumer Interactive Business Analyst, Consumer Interactive TransUnion Hong Kong, Hong Kong SAR Actively Hiring 4 hours ago",
     "first_seen_at": "2026-07-12T18:57:13.999234+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999235+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326863+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Sr Business Analyst, Research, IT",
+    "company": "CLSA",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/sr-business-analyst-research-it-at-clsa-4415614432",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Sr Business Analyst, Research, IT Sr Business Analyst, Research, IT CLSA Hong Kong, Hong Kong SAR Actively Hiring 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326834+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326836+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Investment Strategy Analyst",
+    "company": "Alignerr",
+    "location": "Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/investment-strategy-analyst-at-alignerr-4439775289",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, strategy",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Investment Strategy Analyst Investment Strategy Analyst Alignerr Hong Kong SAR Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326810+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326812+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Principal Business Analyst, Algo and Machine Learning Systems, IT",
+    "company": "CLSA",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/principal-business-analyst-algo-and-machine-learning-systems-it-at-clsa-4429234738",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Principal Business Analyst, Algo and Machine Learning Systems, IT Principal Business Analyst, Algo and Machine Learning Systems, IT CLSA Hong Kong, Hong Kong SAR Be an early applicant 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326785+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326787+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Financial Analyst -FP&A",
+    "company": "Enerpac Tool Group",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/financial-analyst-fp-a-at-enerpac-tool-group-4400847200",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, fp&a",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Financial Analyst -FP&A Financial Analyst -FP&A Enerpac Tool Group Singapore, Singapore 1 hour ago",
+    "first_seen_at": "2026-07-12T18:57:13.999166+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326763+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Finance Analyst",
+    "company": "Encora Inc.",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/finance-analyst-at-encora-inc-4439792389",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Finance Analyst Finance Analyst Encora Inc. Singapore Be an early applicant 2 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326734+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326736+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Risk Analyst, Credit (MNC)",
+    "company": "Achieve Group",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/risk-analyst-credit-mnc-at-achieve-group-4439102904",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Risk Analyst, Credit (MNC) Risk Analyst, Credit (MNC) Achieve Group Singapore, Singapore 8 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326710+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326712+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Analyst, Finance & Credit Life",
+    "company": "AIA Singapore",
+    "location": "Tampines, East Region, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/analyst-finance-credit-life-at-aia-singapore-4346816144",
+    "score": 0,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Analyst, Finance & Credit Life Analyst, Finance & Credit Life AIA Singapore Tampines, East Region, Singapore Actively Hiring 5 hours ago",
+    "first_seen_at": "2026-07-12T18:57:13.999188+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326687+00:00",
+    "original_score": 79,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AIA."
+  },
+  {
+    "title": "Finance Associate",
+    "company": "MEXC",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/finance-associate-at-mexc-4439034170",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Finance Associate Finance Associate MEXC Singapore, Singapore Actively Hiring 22 hours ago",
+    "first_seen_at": "2026-07-11T07:44:38.490082+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326657+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Finance Associate",
+    "company": "MEXC",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/finance-associate-at-mexc-4437210991",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Finance Associate Finance Associate MEXC Singapore Be an early applicant 13 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326630+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326632+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Lead Business Analyst",
+    "company": "Charterhouse Partnership | Asia",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/lead-business-analyst-at-charterhouse-partnership-asia-4439149512",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Lead Business Analyst Lead Business Analyst Charterhouse Partnership | Asia Singapore, Singapore Be an early applicant 14 minutes ago",
+    "first_seen_at": "2026-07-13T08:55:38.326606+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326608+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst",
+    "company": "LanceSoft Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/business-analyst-at-lancesoft-singapore-4439136432",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst Business Analyst LanceSoft Singapore Singapore, Singapore Be an early applicant 2 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326581+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326583+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Information Technology Business Analyst",
+    "company": "WLC FACILITIES SERVICES PTE LTD",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/information-technology-business-analyst-at-wlc-facilities-services-pte-ltd-4437240313",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Information Technology Business Analyst Information Technology Business Analyst WLC FACILITIES SERVICES PTE LTD Singapore, Singapore 5 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326557+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326558+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider)",
+    "company": "Julius Baer",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/12-months-contract-business-analyst-structured-product-through-an-external-agency-payroll-provider-at-julius-baer-4371430515",
+    "score": 59,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) 12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) Julius Baer Singapore, Singapore 6 hours ago",
+    "first_seen_at": "2026-07-12T18:57:13.999119+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326531+00:00",
+    "original_score": 79,
+    "company_quality_decision": "review",
+    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched."
+  },
+  {
+    "title": "Business Risk Analyst (12-month contract)",
+    "company": "Hays",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/business-risk-analyst-12-month-contract-at-hays-4439598819",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Business Risk Analyst (12-month contract) Business Risk Analyst (12-month contract) Hays Hong Kong, Hong Kong SAR Be an early applicant 13 hours ago",
+    "first_seen_at": "2026-07-12T18:57:13.999254+00:00",
+    "last_seen_at": "2026-07-12T18:57:13.999256+00:00",
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -3650,72 +4134,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Analyst, Finance & Credit Life",
-    "company": "AIA Singapore",
-    "location": "Tampines, East Region, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/analyst-finance-credit-life-at-aia-singapore-4346816144",
-    "score": 0,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Analyst, Finance & Credit Life Analyst, Finance & Credit Life AIA Singapore Tampines, East Region, Singapore Actively Hiring 5 hours ago",
-    "first_seen_at": "2026-07-12T18:57:13.999188+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999189+00:00",
-    "original_score": 79,
-    "company_quality_decision": "exclude",
-    "company_quality_reason": "Company is blacklisted: AIA."
-  },
-  {
-    "title": "Financial Analyst -FP&A",
-    "company": "Enerpac Tool Group",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/financial-analyst-fp-a-at-enerpac-tool-group-4400847200",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, fp&a",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Financial Analyst -FP&A Financial Analyst -FP&A Enerpac Tool Group Singapore, Singapore 1 hour ago",
-    "first_seen_at": "2026-07-12T18:57:13.999166+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999168+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider)",
-    "company": "Julius Baer",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/12-months-contract-business-analyst-structured-product-through-an-external-agency-payroll-provider-at-julius-baer-4371430515",
-    "score": 59,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) 12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) Julius Baer Singapore, Singapore 6 hours ago",
-    "first_seen_at": "2026-07-12T18:57:13.999119+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999121+00:00",
-    "original_score": 79,
-    "company_quality_decision": "review",
-    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched."
   },
   {
     "title": "Business Analyst (with UX experience)",
@@ -4021,28 +4439,6 @@
     "description": "Finance Analyst Finance Analyst UPS Singapore, Singapore Actively Hiring 5 hours ago",
     "first_seen_at": "2026-07-10T19:19:36.735739+00:00",
     "last_seen_at": "2026-07-11T07:44:38.490133+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Finance Associate",
-    "company": "MEXC",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/finance-associate-at-mexc-4439034170",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Finance Associate Finance Associate MEXC Singapore, Singapore Actively Hiring 22 hours ago",
-    "first_seen_at": "2026-07-11T07:44:38.490082+00:00",
-    "last_seen_at": "2026-07-11T07:44:38.490083+00:00",
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -7062,114 +7458,26 @@
     "company_quality_reason": ""
   },
   {
-    "title": "FP&A Analyst",
-    "company": "Charterhouse Partnership | Asia",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/fp-a-analyst-at-charterhouse-partnership-asia-4435529884",
-    "score": 79,
+    "title": "2026 Wealth Management Trainee (Fresh Graduate or TTPS/QMAS/IANG welcomed)",
+    "company": "AIA Hong Kong and Macau",
+    "location": "Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/2026-wealth-management-trainee-fresh-graduate-or-ttps-qmas-iang-welcomed-at-aia-hong-kong-and-macau-4439118482",
+    "score": 0,
     "recommendation": "Maybe",
     "priority": "Medium",
-    "source": "LinkedIn SG",
+    "source": "LinkedIn HK",
     "job_type": "Full-time / Graduate",
     "reasons": [
-      "Matches target keywords: analyst, fp&a",
+      "Matches target keywords: graduate, trainee, management trainee",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
+      "Relevant location: Hong Kong SAR."
     ],
-    "description": "FP&A Analyst FP&A Analyst Charterhouse Partnership | Asia Singapore, Singapore Be an early applicant 1 hour ago",
-    "first_seen_at": "2026-07-01T09:34:35.897534+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868060+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Business Risk Analyst (12-Month Contract)",
-    "company": "Hays",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/business-risk-analyst-12-month-contract-at-hays-4436978941",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Business Risk Analyst (12-Month Contract) Business Risk Analyst (12-Month Contract) Hays Singapore, Singapore Be an early applicant 1 hour ago",
-    "first_seen_at": "2026-07-05T08:45:13.111804+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868032+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Salesforce Business Analyst",
-    "company": "R Systems",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/salesforce-business-analyst-at-r-systems-4433782594",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Salesforce Business Analyst Salesforce Business Analyst R Systems Singapore, Singapore Actively Hiring 17 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.867982+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.867984+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Murex Technical Analyst (Market & Credit Risk)",
-    "company": "PERSOL APAC",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/murex-technical-analyst-market-credit-risk-at-persol-apac-4425092631",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Murex Technical Analyst (Market & Credit Risk) Murex Technical Analyst (Market & Credit Risk) PERSOL APAC Singapore, Singapore Be an early applicant 20 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.867957+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.867959+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Associate Consultant",
-    "company": "Veeva Systems",
-    "location": "Tokyo, Japan",
-    "url": "https://jp.linkedin.com/jobs/view/associate-consultant-at-veeva-systems-4436035605",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn Japan",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, consultant",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "Associate Consultant Associate Consultant Veeva Systems Tokyo, Japan Be an early applicant 11 hours ago",
-    "first_seen_at": "2026-07-06T02:32:08.420086+00:00",
-    "last_seen_at": "2026-07-06T02:32:08.420088+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "description": "2026 Wealth Management Trainee (Fresh Graduate or TTPS/QMAS/IANG welcomed) 2026 Wealth Management Trainee (Fresh Graduate or TTPS/QMAS/IANG welcomed) AIA Hong Kong and Macau Hong Kong SAR Be an early applicant 6 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.326983+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.326985+00:00",
+    "original_score": 78,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AIA."
   },
   {
     "title": "Expert Opportunity - Risk & Regulatory Advisory Consultant ($80/hr, up to $1,600/week)",
@@ -7656,94 +7964,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Uni Internship Jan to July 2027 - Data Analyst, HSG Analytics",
-    "company": "Synapxe",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/uni-internship-jan-to-july-2027-data-analyst-hsg-analytics-at-synapxe-4437123385",
-    "score": 77,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Uni Internship Jan to July 2027 - Data Analyst, HSG Analytics Uni Internship Jan to July 2027 - Data Analyst, HSG Analytics Synapxe Singapore, Singapore Be an early applicant 5 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.868139+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868141+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Uni Internship Jan to July 2027 - Procurement Data Analyst Intern",
-    "company": "Synapxe",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/uni-internship-jan-to-july-2027-procurement-data-analyst-intern-at-synapxe-4437108964",
-    "score": 77,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Uni Internship Jan to July 2027 - Procurement Data Analyst Intern Uni Internship Jan to July 2027 - Procurement Data Analyst Intern Synapxe Singapore, Singapore Be an early applicant 5 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.868119+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868121+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Uni Internship Jan to July 2027 - Data Analyst, Datalake Projects on HEALIX",
-    "company": "Synapxe",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/uni-internship-jan-to-july-2027-data-analyst-datalake-projects-on-healix-at-synapxe-4437112676",
-    "score": 77,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Uni Internship Jan to July 2027 - Data Analyst, Datalake Projects on HEALIX Uni Internship Jan to July 2027 - Data Analyst, Datalake Projects on HEALIX Synapxe Singapore, Singapore Be an early applicant 5 hours ago",
-    "first_seen_at": "2026-07-06T02:33:07.868099+00:00",
-    "last_seen_at": "2026-07-06T02:33:07.868101+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Intern, Individual Insolvency & Debt Repayment Scheme Division",
-    "company": "Ministry of Law, Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/intern-individual-insolvency-debt-repayment-scheme-division-at-ministry-of-law-singapore-4249771704",
-    "score": 77,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: payment",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Intern, Individual Insolvency & Debt Repayment Scheme Division Intern, Individual Insolvency & Debt Repayment Scheme Division Ministry of Law, Singapore Singapore, Singapore 9 hours ago",
-    "first_seen_at": "2026-07-06T02:32:08.420112+00:00",
-    "last_seen_at": "2026-07-06T02:32:08.420114+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
     "title": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
     "company": "Deloitte",
     "location": "Hong Kong",
@@ -7810,6 +8030,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Financial Analyst AI Researcher - Remote",
+    "company": "Alignerr",
+    "location": "Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/financial-analyst-ai-researcher-remote-at-alignerr-4439762702",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Financial Analyst AI Researcher - Remote Financial Analyst AI Researcher - Remote Alignerr Hong Kong SAR Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.327162+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327163+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Associate, Digital Infrastructure Investments",
     "company": "Ada Infrastructure",
     "location": "Hong Kong SAR",
@@ -7826,7 +8068,7 @@
     ],
     "description": "Associate, Digital Infrastructure Investments Associate, Digital Infrastructure Investments Ada Infrastructure Hong Kong SAR 9 hours ago",
     "first_seen_at": "2026-07-12T18:57:13.999486+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999487+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327139+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -7848,7 +8090,7 @@
     ],
     "description": "Financial Analyst Financial Analyst NTT DATA, Inc. Singapore, Singapore Actively Hiring 7 hours ago",
     "first_seen_at": "2026-07-12T18:57:13.999463+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999465+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327111+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -7870,17 +8112,17 @@
     ],
     "description": "Lead Financial Analyst - Global Reporting and Analysis Lead Financial Analyst - Global Reporting and Analysis Dyson Singapore, Singapore Actively Hiring 9 hours ago",
     "first_seen_at": "2026-07-12T18:57:13.999442+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999443+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327082+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
   {
-    "title": "Principal Business Intelligence Analyst, SMAI",
-    "company": "Micron Technology",
+    "title": "KYC Analyst (Chinese speaking)",
+    "company": "Crédit Agricole CIB",
     "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/principal-business-intelligence-analyst-smai-at-micron-technology-4410853119",
-    "score": 80,
+    "url": "https://sg.linkedin.com/jobs/view/kyc-analyst-chinese-speaking-at-cr%C3%A9dit-agricole-cib-4430522416",
+    "score": 75,
     "recommendation": "Maybe",
     "priority": "Medium",
     "source": "LinkedIn SG",
@@ -7888,14 +8130,14 @@
     "reasons": [
       "Matches target keywords: analyst",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
+      "Relevant role family: risk/compliance/kyc"
     ],
-    "description": "Principal Business Intelligence Analyst, SMAI Principal Business Intelligence Analyst, SMAI Micron Technology Singapore, Singapore Actively Hiring 9 hours ago",
-    "first_seen_at": "2026-07-12T18:57:13.999420+00:00",
-    "last_seen_at": "2026-07-12T18:57:13.999422+00:00",
+    "description": "KYC Analyst (Chinese speaking) KYC Analyst (Chinese speaking) Crédit Agricole CIB Singapore, Singapore 2 hours ago",
+    "first_seen_at": "2026-07-13T08:55:38.327007+00:00",
+    "last_seen_at": "2026-07-13T08:55:38.327009+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Micron."
+    "company_quality_reason": ""
   },
   {
     "title": "Associate, Digital Infrastructure Investments",
@@ -9169,28 +9411,6 @@
     "description": "Data Analyst Data Analyst ESGpedia Singapore 10 hours ago",
     "first_seen_at": "2026-07-06T15:17:31.125696+00:00",
     "last_seen_at": "2026-07-06T15:17:31.125697+00:00",
-    "original_score": 75,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
-    "title": "Data Analyst",
-    "company": "CLO Virtual Fashion",
-    "location": "Seoul, Seoul, South Korea",
-    "url": "https://kr.linkedin.com/jobs/view/data-analyst-at-clo-virtual-fashion-4168214817",
-    "score": 75,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn Korea",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Data Analyst Data Analyst CLO Virtual Fashion Seoul, Seoul, South Korea Actively Hiring 13 hours ago",
-    "first_seen_at": "2026-07-06T02:32:08.420180+00:00",
-    "last_seen_at": "2026-07-06T02:32:08.420182+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
