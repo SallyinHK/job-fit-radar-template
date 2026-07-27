@@ -324,7 +324,7 @@
     ],
     "description": "T&L: Associate - Tax Technology Consulting (2026 Graduate) T&L: Associate - Tax Technology Consulting (2026 Graduate) Deloitte Singapore, Singapore 3 minutes ago",
     "first_seen_at": "2026-07-21T08:13:28.588511+00:00",
-    "last_seen_at": "2026-07-27T09:37:41.712267+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577365+00:00",
     "original_score": 90,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Deloitte."
@@ -2112,6 +2112,28 @@
     "company_quality_reason": "Preferred company matched: EY."
   },
   {
+    "title": "Trainee Credit Risk, Japan",
+    "company": "Natixis Corporate & Investment Banking",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/trainee-credit-risk-japan-at-natixis-corporate-investment-banking-4404755069",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Other / Review",
+    "reasons": [
+      "Matches target keywords: trainee, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Trainee Credit Risk, Japan Trainee Credit Risk, Japan Natixis Corporate & Investment Banking Tokyo, Japan 18 hours ago",
+    "first_seen_at": "2026-07-21T02:00:19.962406+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577522+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Natixis."
+  },
+  {
     "title": "Business Analyst, Digital Product, Global",
     "company": "Rosewood Hotel Group",
     "location": "Hong Kong, Hong Kong SAR",
@@ -2596,28 +2618,6 @@
     "company_quality_reason": "Preferred company matched: Shopee."
   },
   {
-    "title": "Trainee Credit Risk, Japan",
-    "company": "Natixis Corporate & Investment Banking",
-    "location": "Tokyo, Japan",
-    "url": "https://jp.linkedin.com/jobs/view/trainee-credit-risk-japan-at-natixis-corporate-investment-banking-4404755069",
-    "score": 86,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn Japan",
-    "job_type": "Other / Review",
-    "reasons": [
-      "Matches target keywords: trainee, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Trainee Credit Risk, Japan Trainee Credit Risk, Japan Natixis Corporate & Investment Banking Tokyo, Japan 18 hours ago",
-    "first_seen_at": "2026-07-21T02:00:19.962406+00:00",
-    "last_seen_at": "2026-07-21T02:00:19.962409+00:00",
-    "original_score": 81,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Natixis."
-  },
-  {
     "title": "Associate, Regulatory Affairs and Strategy",
     "company": "HiRO - Harvest Integrated Research Organization",
     "location": "Seoul, Seoul, South Korea",
@@ -2660,6 +2660,50 @@
     "original_score": 86,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
+  },
+  {
+    "title": "Associate IT Consultant – New Graduate (2026–2027 Graduates)",
+    "company": "Infosys Japan",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/associate-it-consultant-%E2%80%93-new-graduate-2026%E2%80%932027-graduates-at-infosys-japan-4396941742",
+    "score": 85,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Associate IT Consultant – New Graduate (2026–2027 Graduates) Associate IT Consultant – New Graduate (2026–2027 Graduates) Infosys Japan Tokyo, Japan 11 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577402+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577405+00:00",
+    "original_score": 85,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong",
+    "company": "Goldman Sachs",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/asset-wealth-management-private-wealth-management-financial-analyst-hong-kong-at-goldman-sachs-4444883033",
+    "score": 85,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn HK",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong Goldman Sachs Hong Kong, Hong Kong SAR Be an early applicant 4 hours ago",
+    "first_seen_at": "2026-07-27T09:37:41.712408+00:00",
+    "last_seen_at": "2026-07-27T09:37:41.712410+00:00",
+    "original_score": 80,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
     "title": "Regulatory Reporting Intermediate Analyst",
@@ -3124,6 +3168,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "T&L: Associate - Business Process Solutions (2026 Graduate)",
+    "company": "Deloitte",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-business-process-solutions-2026-graduate-at-deloitte-4280696723",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "T&L: Associate - Business Process Solutions (2026 Graduate) T&L: Associate - Business Process Solutions (2026 Graduate) Deloitte Singapore, Singapore 16 hours ago",
+    "first_seen_at": "2026-07-22T19:02:46.082487+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577691+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "Technology - HR Technology (HRIS) Analyst - Consultant",
     "company": "Accenture",
     "location": "Hong Kong, Hong Kong SAR",
@@ -3166,28 +3232,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Shopee."
-  },
-  {
-    "title": "T&L: Associate - Business Process Solutions (2026 Graduate)",
-    "company": "Deloitte",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-business-process-solutions-2026-graduate-at-deloitte-4280696723",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "T&L: Associate - Business Process Solutions (2026 Graduate) T&L: Associate - Business Process Solutions (2026 Graduate) Deloitte Singapore, Singapore 16 hours ago",
-    "first_seen_at": "2026-07-22T19:02:46.082487+00:00",
-    "last_seen_at": "2026-07-25T07:55:08.149678+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Finance Sr.Analyst",
@@ -3408,6 +3452,28 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Accenture."
+  },
+  {
+    "title": "Trade Finance Operations, Associate",
+    "company": "BBVA",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/trade-finance-operations-associate-at-bbva-4395566623",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Trade Finance Operations, Associate Trade Finance Operations, Associate BBVA Tokyo, Japan 4 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577433+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577435+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "FP&A Analyst / Financial Planning Analyst / Business Finance Analyst",
@@ -4488,6 +4554,50 @@
     "company_quality_reason": "Preferred company matched: PwC."
   },
   {
+    "title": "Trainee Traded Risk",
+    "company": "Natixis Corporate & Investment Banking",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/trainee-traded-risk-at-natixis-corporate-investment-banking-4368956210",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Other / Review",
+    "reasons": [
+      "Matches target keywords: trainee, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Trainee Traded Risk Trainee Traded Risk Natixis Corporate & Investment Banking Tokyo, Japan Actively Hiring 10 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577490+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577492+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Natixis."
+  },
+  {
+    "title": "Junior Business Analyst / Business Analyst x2",
+    "company": "Planet Pharma",
+    "location": "Nishitokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/junior-business-analyst-business-analyst-x2-at-planet-pharma-4442377638",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Junior Business Analyst / Business Analyst x2 Junior Business Analyst / Business Analyst x2 Planet Pharma Nishitokyo, Tokyo, Japan Actively Hiring 55 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577462+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577464+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Graduate Consultant - Public Engagement",
     "company": "Arup",
     "location": "Hong Kong SAR",
@@ -4928,28 +5038,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong",
-    "company": "Goldman Sachs",
-    "location": "Hong Kong, Hong Kong SAR",
-    "url": "https://hk.linkedin.com/jobs/view/asset-wealth-management-private-wealth-management-financial-analyst-hong-kong-at-goldman-sachs-4444883033",
-    "score": 85,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn HK",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong Asset & Wealth Management, Private Wealth Management, Financial Analyst, Hong Kong Goldman Sachs Hong Kong, Hong Kong SAR Be an early applicant 4 hours ago",
-    "first_seen_at": "2026-07-27T09:37:41.712408+00:00",
-    "last_seen_at": "2026-07-27T09:37:41.712410+00:00",
-    "original_score": 80,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Goldman Sachs."
-  },
-  {
     "title": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
     "company": "Deloitte",
     "location": "Hong Kong",
@@ -4966,7 +5054,7 @@
     ],
     "description": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
     "first_seen_at": "2026-04-30T13:28:16.756721+00:00",
-    "last_seen_at": "2026-07-26T02:05:48.665701+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577776+00:00",
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Deloitte."
@@ -5210,6 +5298,116 @@
     "first_seen_at": "2026-07-17T18:58:17.131480+00:00",
     "last_seen_at": "2026-07-22T19:02:46.082076+00:00",
     "original_score": 80,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Advanced Polytechnic Graduate Pathway Program - General Assurance Assistant Associate (July 2027 onwards)",
+    "company": "PwC Singapore",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/advanced-polytechnic-graduate-pathway-program-general-assurance-assistant-associate-july-2027-onwards-at-pwc-singapore-4436096027",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Advanced Polytechnic Graduate Pathway Program - General Assurance Assistant Associate (July 2027 onwards) Advanced Polytechnic Graduate Pathway Program - General Assurance Assistant Associate (July 2027 onwards) PwC Singapore Singapore 20 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577661+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577663+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: PwC."
+  },
+  {
+    "title": "Business Analyst(간편픽업)",
+    "company": "(주)우아한형제들 (Woowa Bros.)",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/business-analyst-%EA%B0%84%ED%8E%B8%ED%94%BD%EC%97%85-at-%EC%A3%BC-%EC%9A%B0%EC%95%84%ED%95%9C%ED%98%95%EC%A0%9C%EB%93%A4-woowa-bros-4436081397",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst(간편픽업) Business Analyst(간편픽업) (주)우아한형제들 (Woowa Bros.) Seoul, Seoul, South Korea Be an early applicant 36 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577635+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577637+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst(타임세일)",
+    "company": "(주)우아한형제들 (Woowa Bros.)",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/business-analyst-%ED%83%80%EC%9E%84%EC%84%B8%EC%9D%BC-at-%EC%A3%BC-%EC%9A%B0%EC%95%84%ED%95%9C%ED%98%95%EC%A0%9C%EB%93%A4-woowa-bros-4414184077",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst(타임세일) Business Analyst(타임세일) (주)우아한형제들 (Woowa Bros.) Seoul, Seoul, South Korea 50 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577607+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577609+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "EPAM Systems",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/technical-business-analyst-at-epam-systems-4437658795",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Technical Business Analyst Technical Business Analyst EPAM Systems Tokyo, Tokyo, Japan Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577577+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577579+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Associate Consultant",
+    "company": "Veeva Systems",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/associate-consultant-at-veeva-systems-4436035605",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Associate Consultant Associate Consultant Veeva Systems Tokyo, Japan Actively Hiring 28 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577546+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577548+00:00",
+    "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -9130,6 +9328,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Global Banking & Markets Operations – Listed Derivatives Operations, Analyst, Tokyo",
+    "company": "Goldman Sachs",
+    "location": "Minato, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/global-banking-markets-operations-%E2%80%93-listed-derivatives-operations-analyst-tokyo-at-goldman-sachs-4444884035",
+    "score": 82,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Global Banking & Markets Operations – Listed Derivatives Operations, Analyst, Tokyo Global Banking & Markets Operations – Listed Derivatives Operations, Analyst, Tokyo Goldman Sachs Minato, Tokyo, Japan Be an early applicant 9 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577718+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577720+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Goldman Sachs."
+  },
+  {
     "title": "Intern - Compliance (Transaction Monitoring)",
     "company": "HL Bank Singapore",
     "location": "Singapore, Singapore",
@@ -9520,10 +9740,32 @@
     ],
     "description": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
     "first_seen_at": "2026-04-30T13:28:16.756759+00:00",
-    "last_seen_at": "2026-07-26T02:05:48.665731+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577970+00:00",
     "original_score": 71,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
+    "title": "Associate Sales Operations Analyst (1 year Contract)",
+    "company": "Liferay",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/associate-sales-operations-analyst-1-year-contract-at-liferay-4439417812",
+    "score": 76,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst, associate, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant location: Tokyo, Tokyo, Japan."
+    ],
+    "description": "Associate Sales Operations Analyst (1 year Contract) Associate Sales Operations Analyst (1 year Contract) Liferay Tokyo, Tokyo, Japan Be an early applicant 21 hours ago",
+    "first_seen_at": "2026-07-22T19:02:46.082631+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577745+00:00",
+    "original_score": 76,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Supply Chain Operations Analyst",
@@ -9548,26 +9790,158 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Associate Sales Operations Analyst (1 year Contract)",
-    "company": "Liferay",
+    "title": "Data Analyst",
+    "company": "CLO Virtual Fashion",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/data-analyst-at-clo-virtual-fashion-4168214817",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst Data Analyst CLO Virtual Fashion Seoul, Seoul, South Korea Actively Hiring 43 minutes ago",
+    "first_seen_at": "2026-07-27T14:16:16.577941+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577943+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Sr. Data Analyst (Post Purchase Experience Analytics)",
+    "company": "Coupang",
+    "location": "Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/sr-data-analyst-post-purchase-experience-analytics-at-coupang-4434962303",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Sr. Data Analyst (Post Purchase Experience Analytics) Sr. Data Analyst (Post Purchase Experience Analytics) Coupang Seoul, South Korea Be an early applicant 12 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577919+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577921+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "금융 데이터 분석가(Financial Data Analyst)",
+    "company": "Next Securities",
+    "location": "Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80-financial-data-analyst-at-next-securities-4445923593",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "금융 데이터 분석가(Financial Data Analyst) 금융 데이터 분석가(Financial Data Analyst) Next Securities Seoul, South Korea Be an early applicant 4 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577896+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577898+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Data Analyst, Data Science Group - Analytics & Metrics Department (AMD)",
+    "company": "Rakuten",
     "location": "Tokyo, Tokyo, Japan",
-    "url": "https://jp.linkedin.com/jobs/view/associate-sales-operations-analyst-1-year-contract-at-liferay-4439417812",
-    "score": 76,
+    "url": "https://jp.linkedin.com/jobs/view/data-analyst-data-science-group-analytics-metrics-department-amd-at-rakuten-4437142826",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst, Data Science Group - Analytics & Metrics Department (AMD) Data Analyst, Data Science Group - Analytics & Metrics Department (AMD) Rakuten Tokyo, Tokyo, Japan Actively Hiring 3 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577871+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577872+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Data Analyst, Data Science Group - Analytics & Metrics Department (AMD)",
+    "company": "Rakuten",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/data-analyst-data-science-group-analytics-metrics-department-amd-at-rakuten-4436088109",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst, Data Science Group - Analytics & Metrics Department (AMD) Data Analyst, Data Science Group - Analytics & Metrics Department (AMD) Rakuten Tokyo, Japan Actively Hiring 3 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577848+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577850+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Internal Audit, Technology Audit, Associate, Tokyo",
+    "company": "Goldman Sachs",
+    "location": "Minato, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/internal-audit-technology-audit-associate-tokyo-at-goldman-sachs-4444888946",
+    "score": 80,
     "recommendation": "Maybe",
     "priority": "Medium",
     "source": "LinkedIn Japan",
     "job_type": "Internship / Temporary",
     "reasons": [
-      "Matches target keywords: analyst, associate, operations",
+      "Matches target keywords: associate",
       "Looks potentially suitable for graduate / early-career search.",
-      "Relevant location: Tokyo, Tokyo, Japan."
+      "Priority company or target employer group."
     ],
-    "description": "Associate Sales Operations Analyst (1 year Contract) Associate Sales Operations Analyst (1 year Contract) Liferay Tokyo, Tokyo, Japan Be an early applicant 21 hours ago",
-    "first_seen_at": "2026-07-22T19:02:46.082631+00:00",
-    "last_seen_at": "2026-07-22T19:02:46.082633+00:00",
-    "original_score": 76,
+    "description": "Internal Audit, Technology Audit, Associate, Tokyo Internal Audit, Technology Audit, Associate, Tokyo Goldman Sachs Minato, Tokyo, Japan Be an early applicant 3 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577823+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577825+00:00",
+    "original_score": 75,
     "company_quality_decision": "keep",
-    "company_quality_reason": ""
+    "company_quality_reason": "Preferred company matched: Goldman Sachs."
+  },
+  {
+    "title": "Data Analyst(P2),Data Business Partner【アクサ生命】",
+    "company": "AXA Japan",
+    "location": "Minato, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/data-analyst-p2-data-business-partner%E3%80%90%E3%82%A2%E3%82%AF%E3%82%B5%E7%94%9F%E5%91%BD%E3%80%91-at-axa-japan-4445906306",
+    "score": 0,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Data Analyst(P2),Data Business Partner【アクサ生命】 Data Analyst(P2),Data Business Partner【アクサ生命】 AXA Japan Minato, Tokyo, Japan Be an early applicant 5 hours ago",
+    "first_seen_at": "2026-07-27T14:16:16.577802+00:00",
+    "last_seen_at": "2026-07-27T14:16:16.577804+00:00",
+    "original_score": 75,
+    "company_quality_decision": "exclude",
+    "company_quality_reason": "Company is blacklisted: AXA."
   },
   {
     "title": "Binance Accelerator Program - Research On Chain Data Analyst",
