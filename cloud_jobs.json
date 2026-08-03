@@ -198,6 +198,50 @@
     "company_quality_reason": "Preferred company matched: PwC."
   },
   {
+    "title": "T&L: Associate - Tax Technology Consulting (2026 Graduate)",
+    "company": "Deloitte",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-tax-technology-consulting-2026-graduate-at-deloitte-4281001269",
+    "score": 95,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate, consulting",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "T&L: Associate - Tax Technology Consulting (2026 Graduate) T&L: Associate - Tax Technology Consulting (2026 Graduate) Deloitte Singapore, Singapore 3 minutes ago",
+    "first_seen_at": "2026-07-21T08:13:28.588511+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522058+00:00",
+    "original_score": 90,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
+    "title": "Compliance Product Specialist - Global Payment (Third-party Associate)",
+    "company": "ByteDance",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/compliance-product-specialist-global-payment-third-party-associate-at-bytedance-4447661339",
+    "score": 95,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, compliance, payment",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc, payment/fintech/data"
+    ],
+    "description": "Compliance Product Specialist - Global Payment (Third-party Associate) Compliance Product Specialist - Global Payment (Third-party Associate) ByteDance Singapore, Singapore Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-08-03T02:06:29.315157+00:00",
+    "last_seen_at": "2026-08-03T02:06:29.315159+00:00",
+    "original_score": 90,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: ByteDance."
+  },
+  {
     "title": "Consulting, Cyber Operational Technology, Graduate Associate 2026",
     "company": "KPMG Singapore",
     "location": "Singapore, Singapore",
@@ -237,28 +281,6 @@
     "description": "T&T Graduate Analyst - Oracle (Finance) - SG T&T Graduate Analyst - Oracle (Finance) - SG Deloitte Singapore, Singapore Actively Hiring 11 hours ago",
     "first_seen_at": "2026-07-30T01:48:41.786585+00:00",
     "last_seen_at": "2026-07-30T01:48:41.786587+00:00",
-    "original_score": 90,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
-  },
-  {
-    "title": "T&L: Associate - Tax Technology Consulting (2026 Graduate)",
-    "company": "Deloitte",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-tax-technology-consulting-2026-graduate-at-deloitte-4281001269",
-    "score": 95,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, associate, consulting",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "T&L: Associate - Tax Technology Consulting (2026 Graduate) T&L: Associate - Tax Technology Consulting (2026 Graduate) Deloitte Singapore, Singapore 3 minutes ago",
-    "first_seen_at": "2026-07-21T08:13:28.588511+00:00",
-    "last_seen_at": "2026-07-27T14:16:16.577365+00:00",
     "original_score": 90,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Deloitte."
@@ -368,10 +390,32 @@
     ],
     "description": "Trainee – Fixed Term Contract - Financing and Advisory (Project Finance) Trainee – Fixed Term Contract - Financing and Advisory (Project Finance) Societe Generale Singapore, Singapore Actively Hiring 16 hours ago",
     "first_seen_at": "2026-08-03T02:06:29.315111+00:00",
-    "last_seen_at": "2026-08-03T02:06:29.315124+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522022+00:00",
     "original_score": 92,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
+  },
+  {
+    "title": "AML Operation Analyst Graduate (Global Payment) - 2027 Start",
+    "company": "ByteDance",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/aml-operation-analyst-graduate-global-payment-2027-start-at-bytedance-4448140699",
+    "score": 97,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, analyst, payment",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc, payment/fintech/data"
+    ],
+    "description": "AML Operation Analyst Graduate (Global Payment) - 2027 Start AML Operation Analyst Graduate (Global Payment) - 2027 Start ByteDance Singapore Be an early applicant 3 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.521965+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.521979+00:00",
+    "original_score": 92,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: ByteDance."
   },
   {
     "title": "Transformation Office (Digital Transformation) Traineeship [GRIT@Gov]",
@@ -570,28 +614,6 @@
     "original_score": 90,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Compliance Product Specialist - Global Payment (Third-party Associate)",
-    "company": "ByteDance",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/compliance-product-specialist-global-payment-third-party-associate-at-bytedance-4447661339",
-    "score": 95,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, compliance, payment",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc, payment/fintech/data"
-    ],
-    "description": "Compliance Product Specialist - Global Payment (Third-party Associate) Compliance Product Specialist - Global Payment (Third-party Associate) ByteDance Singapore, Singapore Be an early applicant 7 hours ago",
-    "first_seen_at": "2026-08-03T02:06:29.315157+00:00",
-    "last_seen_at": "2026-08-03T02:06:29.315159+00:00",
-    "original_score": 90,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: ByteDance."
   },
   {
     "title": "Business Analyst, AML (for Banking Industry)",
@@ -1562,6 +1584,28 @@
     "company_quality_reason": "Preferred company matched: Natixis."
   },
   {
+    "title": "Ecosystem Governance Strategy Operations Graduate(TikTok-Product-Content Ecosystem)- 2027 Start",
+    "company": "TikTok",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/ecosystem-governance-strategy-operations-graduate-tiktok-product-content-ecosystem-2027-start-at-tiktok-4447681462",
+    "score": 85,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Other / Review",
+    "reasons": [
+      "Matches target keywords: graduate, strategy, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Ecosystem Governance Strategy Operations Graduate(TikTok-Product-Content Ecosystem)- 2027 Start Ecosystem Governance Strategy Operations Graduate(TikTok-Product-Content Ecosystem)- 2027 Start TikTok Singapore, Singapore Be an early applicant 6 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522088+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522091+00:00",
+    "original_score": 85,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Wealth Management KYC Associate",
     "company": "JPMorganChase",
     "location": "Kwun Tong, Hong Kong SAR",
@@ -1692,6 +1736,50 @@
     "original_score": 85,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
+  },
+  {
+    "title": "T&L: Associate - Goods & Services Tax (2026 Graduate)",
+    "company": "Deloitte",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-goods-services-tax-2026-graduate-at-deloitte-4280699418",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "T&L: Associate - Goods & Services Tax (2026 Graduate) T&L: Associate - Goods & Services Tax (2026 Graduate) Deloitte Singapore, Singapore Actively Hiring 19 minutes ago",
+    "first_seen_at": "2026-07-29T08:28:55.516003+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522330+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
+    "title": "Liquidity Analyst - Fund Management - Global Payment",
+    "company": "ByteDance",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/liquidity-analyst-fund-management-global-payment-at-bytedance-4447663241",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, payment",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Liquidity Analyst - Fund Management - Global Payment Liquidity Analyst - Fund Management - Global Payment ByteDance Singapore, Singapore Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-08-03T02:06:29.315478+00:00",
+    "last_seen_at": "2026-08-03T02:06:29.315479+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: ByteDance."
   },
   {
     "title": "Technology - Business Analyst",
@@ -2068,28 +2156,6 @@
     "company_quality_reason": "Preferred company matched: Accenture."
   },
   {
-    "title": "T&L: Associate - Goods & Services Tax (2026 Graduate)",
-    "company": "Deloitte",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/t-l-associate-goods-services-tax-2026-graduate-at-deloitte-4280699418",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "T&L: Associate - Goods & Services Tax (2026 Graduate) T&L: Associate - Goods & Services Tax (2026 Graduate) Deloitte Singapore, Singapore Actively Hiring 19 minutes ago",
-    "first_seen_at": "2026-07-29T08:28:55.516003+00:00",
-    "last_seen_at": "2026-07-29T08:28:55.516005+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
-  },
-  {
     "title": "T&L: Associate - Business Process Solutions (2026 Graduate)",
     "company": "Deloitte",
     "location": "Singapore, Singapore",
@@ -2132,6 +2198,72 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: PwC."
+  },
+  {
+    "title": "Strategy & Operations Associate",
+    "company": "A1",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/strategy-operations-associate-at-a1-4444947799",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, strategy, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Strategy & Operations Associate Strategy & Operations Associate A1 Singapore 21 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522180+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522182+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Strategy & Operations Associate",
+    "company": "BJAK",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/strategy-operations-associate-at-bjak-4447904112",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, strategy, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Strategy & Operations Associate Strategy & Operations Associate BJAK Singapore Be an early applicant 1 hour ago",
+    "first_seen_at": "2026-08-03T09:31:09.522150+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522152+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Governance, Risk and Compliance – Analyst",
+    "company": "Concentrix",
+    "location": "Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/governance-risk-and-compliance-%E2%80%93-analyst-at-concentrix-4448130541",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, risk, compliance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Governance, Risk and Compliance – Analyst Governance, Risk and Compliance – Analyst Concentrix Seoul, South Korea Be an early applicant 4 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522120+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522122+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Trading Market Risk Analyst (Associate) - Singapore LNG, Gas, Power, Freight",
@@ -2744,7 +2876,7 @@
     ],
     "description": "GIG Coverage, Analyst/Associate, Investment Banking Division GIG Coverage, Analyst/Associate, Investment Banking Division Morgan Stanley Tokyo, Tokyo, Japan 1 hour ago",
     "first_seen_at": "2026-07-22T19:02:46.082562+00:00",
-    "last_seen_at": "2026-08-01T18:59:41.144347+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522385+00:00",
     "original_score": 77,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: EY."
@@ -2970,6 +3102,28 @@
     "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
+    "title": "Merchant Financing Graduate (Global Payment) - 2027 Start",
+    "company": "ByteDance",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/merchant-financing-graduate-global-payment-2027-start-at-bytedance-4448139715",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Other / Review",
+    "reasons": [
+      "Matches target keywords: graduate, payment",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Merchant Financing Graduate (Global Payment) - 2027 Start Merchant Financing Graduate (Global Payment) - 2027 Start ByteDance Singapore Be an early applicant 3 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522245+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522247+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: ByteDance."
+  },
+  {
     "title": "Trainee – 12 months’ Contract – Global Markets Research & Strategy",
     "company": "Societe Generale",
     "location": "Singapore, Singapore",
@@ -2986,7 +3140,7 @@
     ],
     "description": "Trainee – 12 months’ Contract – Global Markets Research & Strategy Trainee – 12 months’ Contract – Global Markets Research & Strategy Societe Generale Singapore, Singapore Actively Hiring 15 hours ago",
     "first_seen_at": "2026-08-03T02:06:29.315291+00:00",
-    "last_seen_at": "2026-08-03T02:06:29.315293+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522218+00:00",
     "original_score": 81,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
@@ -3124,6 +3278,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Graduate Program 2027 Graduate Recruitment is now live — Join Us and Make Your Impact Learn more",
+    "company": "Deloitte",
+    "location": "Hong Kong",
+    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/graduate-program.html",
+    "score": 80,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "Official",
+    "job_type": "Official Portal",
+    "reasons": [
+      "Matches target keywords: graduate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
+    "first_seen_at": "2026-04-30T13:28:16.756721+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522426+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "International Private Bank, Maintenance & Transition Accounts (HK Market), Associate",
     "company": "JPMorganChase",
     "location": "Hong Kong SAR",
@@ -3144,28 +3320,6 @@
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: JPMorgan."
-  },
-  {
-    "title": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
-    "company": "Deloitte",
-    "location": "Hong Kong",
-    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/graduate-program.html",
-    "score": 80,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "Official",
-    "job_type": "Official Portal",
-    "reasons": [
-      "Matches target keywords: graduate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
-    "first_seen_at": "2026-04-30T13:28:16.756721+00:00",
-    "last_seen_at": "2026-08-01T18:59:41.144383+00:00",
-    "original_score": 75,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Data Analyst",
@@ -3300,6 +3454,72 @@
     "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
+    "title": "[Keppel Associate Programme 2027] Finance",
+    "company": "Keppel Ltd.",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/keppel-associate-programme-2027-finance-at-keppel-ltd-4445862503",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "[Keppel Associate Programme 2027] Finance [Keppel Associate Programme 2027] Finance Keppel Ltd. Singapore, Singapore Be an early applicant 4 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522354+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522356+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Ratings Associate, Corporate Finance",
+    "company": "Moody's Corporation",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/ratings-associate-corporate-finance-at-moody-s-corporation-4420971552",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Ratings Associate, Corporate Finance Ratings Associate, Corporate Finance Moody's Corporation Tokyo, Tokyo, Japan Actively Hiring 23 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522300+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522302+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst",
+    "company": "HirePlanner: Your Career Platform for Finding a Job in Japan",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/business-analyst-at-hireplanner-your-career-platform-for-finding-a-job-in-japan-4448138124",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst Business Analyst HirePlanner: Your Career Platform for Finding a Job in Japan Tokyo, Tokyo, Japan Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522273+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522275+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Business Analyst, Consumer Interactive",
     "company": "TransUnion",
     "location": "Hong Kong, Hong Kong SAR",
@@ -3366,28 +3586,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Liquidity Analyst - Fund Management - Global Payment",
-    "company": "ByteDance",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/liquidity-analyst-fund-management-global-payment-at-bytedance-4447663241",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, payment",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: payment/fintech/data"
-    ],
-    "description": "Liquidity Analyst - Fund Management - Global Payment Liquidity Analyst - Fund Management - Global Payment ByteDance Singapore, Singapore Be an early applicant 7 hours ago",
-    "first_seen_at": "2026-08-03T02:06:29.315478+00:00",
-    "last_seen_at": "2026-08-03T02:06:29.315479+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: ByteDance."
-  },
-  {
     "title": "Strategy Analyst, Governance - TikTok Shop",
     "company": "TikTok",
     "location": "Singapore, Singapore",
@@ -3408,28 +3606,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider)",
-    "company": "Julius Baer",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/12-months-contract-business-analyst-structured-product-through-an-external-agency-payroll-provider-at-julius-baer-4371430515",
-    "score": 59,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Internship / Temporary",
-    "reasons": [
-      "Matches target keywords: analyst, business analyst",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: consulting/strategy/advisory"
-    ],
-    "description": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) 12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) Julius Baer Singapore, Singapore 12 hours ago",
-    "first_seen_at": "2026-08-03T02:06:29.315429+00:00",
-    "last_seen_at": "2026-08-03T02:06:29.315431+00:00",
-    "original_score": 79,
-    "company_quality_decision": "review",
-    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched."
   },
   {
     "title": "Analyst, Policy Development & Evaluation (1-year contract)",
@@ -6952,6 +7128,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Internship Program Winter Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
+    "company": "Deloitte",
+    "location": "Hong Kong",
+    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/internship-program.html",
+    "score": 76,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "Official",
+    "job_type": "Official Portal",
+    "reasons": [
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group.",
+      "Relevant location: Hong Kong."
+    ],
+    "description": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
+    "first_seen_at": "2026-04-30T13:28:16.756759+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522514+00:00",
+    "original_score": 71,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "Analyst/Associate (Business Management | Deals)",
     "company": "Cresco Investments",
     "location": "Singapore",
@@ -6972,28 +7170,6 @@
     "original_score": 76,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
-    "company": "Deloitte",
-    "location": "Hong Kong",
-    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/internship-program.html",
-    "score": 76,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "Official",
-    "job_type": "Official Portal",
-    "reasons": [
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group.",
-      "Relevant location: Hong Kong."
-    ],
-    "description": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
-    "first_seen_at": "2026-04-30T13:28:16.756759+00:00",
-    "last_seen_at": "2026-08-01T18:59:41.144468+00:00",
-    "original_score": 71,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Analyst/Associate, OnChain Operations",
@@ -7036,6 +7212,28 @@
     "first_seen_at": "2026-07-22T19:02:46.082631+00:00",
     "last_seen_at": "2026-07-27T14:16:16.577745+00:00",
     "original_score": 76,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Media Search Analyst 재택근무 파트타임",
+    "company": "TELUS Digital",
+    "location": "Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/media-search-analyst-%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-%ED%8C%8C%ED%8A%B8%ED%83%80%EC%9E%84-at-telus-digital-4448142754",
+    "score": 75,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: payment/fintech/data"
+    ],
+    "description": "Media Search Analyst 재택근무 파트타임 Media Search Analyst 재택근무 파트타임 TELUS Digital Seoul, South Korea Be an early applicant 3 hours ago",
+    "first_seen_at": "2026-08-03T09:31:09.522477+00:00",
+    "last_seen_at": "2026-08-03T09:31:09.522480+00:00",
+    "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
   },
@@ -8424,6 +8622,28 @@
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
+  },
+  {
+    "title": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider)",
+    "company": "Julius Baer",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/12-months-contract-business-analyst-structured-product-through-an-external-agency-payroll-provider-at-julius-baer-4371430515",
+    "score": 59,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) 12 months contract - Business Analyst - Structured Product (Through an External Agency Payroll Provider) Julius Baer Singapore, Singapore 12 hours ago",
+    "first_seen_at": "2026-08-03T02:06:29.315429+00:00",
+    "last_seen_at": "2026-08-03T02:06:29.315431+00:00",
+    "original_score": 79,
+    "company_quality_decision": "review",
+    "company_quality_reason": "Potential sales-heavy or low-analytical-content signal matched."
   },
   {
     "title": "Operational Risk Associate",
