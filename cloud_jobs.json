@@ -1144,6 +1144,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Risk Analytics (Risk Management) : Job Level - Associate",
+    "company": "Morgan Stanley",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/risk-analytics-risk-management-job-level-associate-at-morgan-stanley-4412678678",
+    "score": 89,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, risk",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Risk Analytics (Risk Management) : Job Level - Associate Risk Analytics (Risk Management) : Job Level - Associate Morgan Stanley Tokyo, Tokyo, Japan Actively Hiring 2 hours ago",
+    "first_seen_at": "2026-08-11T18:53:18.258212+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792107+00:00",
+    "original_score": 84,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
     "title": "Global Banking - Payments Client Technical Onboarding - Associate",
     "company": "JPMorganChase",
     "location": "Singapore, Singapore",
@@ -1386,28 +1408,6 @@
     "company_quality_reason": "Preferred company matched: Goldman Sachs."
   },
   {
-    "title": "Risk Analytics (Risk Management) : Job Level - Associate",
-    "company": "Morgan Stanley",
-    "location": "Tokyo, Tokyo, Japan",
-    "url": "https://jp.linkedin.com/jobs/view/risk-analytics-risk-management-job-level-associate-at-morgan-stanley-4412678678",
-    "score": 89,
-    "recommendation": "Apply",
-    "priority": "High",
-    "source": "LinkedIn Japan",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, risk",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: risk/compliance/kyc"
-    ],
-    "description": "Risk Analytics (Risk Management) : Job Level - Associate Risk Analytics (Risk Management) : Job Level - Associate Morgan Stanley Tokyo, Tokyo, Japan Actively Hiring 2 hours ago",
-    "first_seen_at": "2026-08-11T18:53:18.258212+00:00",
-    "last_seen_at": "2026-08-16T18:18:51.113313+00:00",
-    "original_score": 84,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: EY."
-  },
-  {
     "title": "Investment Risk - Analyst",
     "company": "JPMorganChase",
     "location": "Hong Kong SAR",
@@ -1626,6 +1626,50 @@
     "original_score": 83,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: OCBC."
+  },
+  {
+    "title": "Intern - Business Consulting, Business Transformation (Offcycle Jan - Jun 2027)",
+    "company": "EY",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/intern-business-consulting-business-transformation-offcycle-jan-jun-2027-at-ey-4456201453",
+    "score": 91,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: consulting, transformation",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Intern - Business Consulting, Business Transformation (Offcycle Jan - Jun 2027) Intern - Business Consulting, Business Transformation (Offcycle Jan - Jun 2027) EY Singapore, Singapore Be an early applicant 9 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792015+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792017+00:00",
+    "original_score": 86,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
+    "title": "Data Analyst (Finance)",
+    "company": "Bucketplace (Ohouse)",
+    "location": "Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/data-analyst-finance-at-bucketplace-ohouse-4438267498",
+    "score": 86,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation, payment/fintech/data"
+    ],
+    "description": "Data Analyst (Finance) Data Analyst (Finance) Bucketplace (Ohouse) Seoul, South Korea 5 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.791973+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.791986+00:00",
+    "original_score": 86,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Business Analyst - Digital / Insurance - 30k to 45k per month",
@@ -2068,6 +2112,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Graduate Finance Trainee",
+    "company": "Givaudan",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/graduate-finance-trainee-at-givaudan-4410727530",
+    "score": 85,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Other / Review",
+    "reasons": [
+      "Matches target keywords: graduate, trainee, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Graduate Finance Trainee Graduate Finance Trainee Givaudan Singapore, Singapore 6 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792044+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792046+00:00",
+    "original_score": 85,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Finance Graduate Associate",
     "company": "FGS Global",
     "location": "Central & Western District, Hong Kong SAR",
@@ -2310,6 +2376,50 @@
     "company_quality_reason": "Preferred company matched: EY."
   },
   {
+    "title": "Junior Sales (Sales Support), Analyst/Associate, Investment Management",
+    "company": "Morgan Stanley",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/junior-sales-sales-support-analyst-associate-investment-management-at-morgan-stanley-4414462768",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Junior Sales (Sales Support), Analyst/Associate, Investment Management Junior Sales (Sales Support), Analyst/Associate, Investment Management Morgan Stanley Seoul, Seoul, South Korea Actively Hiring 2 hours ago",
+    "first_seen_at": "2026-08-11T18:53:18.258554+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792366+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
+    "title": "Operational Transformation & Governance - Associate",
+    "company": "JPMorganChase",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/operational-transformation-governance-associate-at-jpmorganchase-4457334984",
+    "score": 89,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, transformation",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Operational Transformation & Governance - Associate Operational Transformation & Governance - Associate JPMorganChase Tokyo, Tokyo, Japan Be an early applicant 3 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792072+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792075+00:00",
+    "original_score": 84,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: JPMorgan."
+  },
+  {
     "title": "Technology - IT Business Analyst (Insurance)",
     "company": "Accenture",
     "location": "Hong Kong, Hong Kong SAR",
@@ -2332,6 +2442,28 @@
     "company_quality_reason": "Preferred company matched: Accenture."
   },
   {
+    "title": "Audit - Technology Assurance | Graduate Associate 2027",
+    "company": "KPMG Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/audit-technology-assurance-graduate-associate-2027-at-kpmg-singapore-4456718283",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Audit - Technology Assurance | Graduate Associate 2027 Audit - Technology Assurance | Graduate Associate 2027 KPMG Singapore Singapore, Singapore Be an early applicant 17 hours ago",
+    "first_seen_at": "2026-08-21T06:34:03.463457+00:00",
+    "last_seen_at": "2026-08-21T06:34:03.463459+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: KPMG."
+  },
+  {
     "title": "Business Finance Analyst, Central Intelligence and Analytics",
     "company": "Google",
     "location": "Singapore",
@@ -2352,6 +2484,28 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: Google."
+  },
+  {
+    "title": "Audit - Graduate Associate 2027",
+    "company": "KPMG Singapore",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/audit-graduate-associate-2027-at-kpmg-singapore-4456732207",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: graduate, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Audit - Graduate Associate 2027 Audit - Graduate Associate 2027 KPMG Singapore Singapore, Singapore Be an early applicant 17 hours ago",
+    "first_seen_at": "2026-08-21T06:34:03.463358+00:00",
+    "last_seen_at": "2026-08-21T06:34:03.463360+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: KPMG."
   },
   {
     "title": "Associate / Analyst, Digital Service Delivery Specialist, Consumer Banking Group",
@@ -2462,28 +2616,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: KPMG."
-  },
-  {
-    "title": "Junior Sales (Sales Support), Analyst/Associate, Investment Management",
-    "company": "Morgan Stanley",
-    "location": "Seoul, Seoul, South Korea",
-    "url": "https://kr.linkedin.com/jobs/view/junior-sales-sales-support-analyst-associate-investment-management-at-morgan-stanley-4414462768",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn Korea",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Junior Sales (Sales Support), Analyst/Associate, Investment Management Junior Sales (Sales Support), Analyst/Associate, Investment Management Morgan Stanley Seoul, Seoul, South Korea Actively Hiring 2 hours ago",
-    "first_seen_at": "2026-08-11T18:53:18.258554+00:00",
-    "last_seen_at": "2026-08-20T00:49:36.615795+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: EY."
   },
   {
     "title": "Advanced Polytechnic Graduate Pathway Program - General Assurance Assistant Associate (July 2027 onwards)",
@@ -2992,6 +3124,28 @@
     "company_quality_reason": "Preferred company matched: Accenture."
   },
   {
+    "title": "Analyst, Regulatory Compliance Operations",
+    "company": "Western Union",
+    "location": "Minato, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/analyst-regulatory-compliance-operations-at-western-union-4446905018",
+    "score": 83,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, compliance, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: risk/compliance/kyc"
+    ],
+    "description": "Analyst, Regulatory Compliance Operations Analyst, Regulatory Compliance Operations Western Union Minato, Tokyo, Japan Actively Hiring 3 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792136+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792138+00:00",
+    "original_score": 83,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "GTM Strategy & Operations Analyst",
     "company": "LinkedIn",
     "location": "Singapore, Singapore",
@@ -3366,6 +3520,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Cyber Threat Intelligence Analyst, Associate",
+    "company": "Morgan Stanley",
+    "location": "Singapore, Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/cyber-threat-intelligence-analyst-associate-at-morgan-stanley-4456089475",
+    "score": 82,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn SG",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Cyber Threat Intelligence Analyst, Associate Cyber Threat Intelligence Analyst, Associate Morgan Stanley Singapore, Singapore Be an early applicant 1 hour ago",
+    "first_seen_at": "2026-08-21T06:34:03.463809+00:00",
+    "last_seen_at": "2026-08-21T06:34:03.463810+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
     "title": "Analyst/Associate, Planning Department, Global Markets Division for Asia",
     "company": "MUFG",
     "location": "Hong Kong, Hong Kong SAR",
@@ -3674,6 +3850,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Operations & Finance Intern",
+    "company": "Hydra X",
+    "location": "Singapore",
+    "url": "https://sg.linkedin.com/jobs/view/operations-finance-intern-at-hydra-x-4456094724",
+    "score": 81,
+    "recommendation": "Apply",
+    "priority": "High",
+    "source": "LinkedIn SG",
+    "job_type": "Internship / Temporary",
+    "reasons": [
+      "Matches target keywords: finance, operations",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Operations & Finance Intern Operations & Finance Intern Hydra X Singapore Be an early applicant 11 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792159+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792161+00:00",
+    "original_score": 81,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
     "title": "Strategy Operation Graduate (TikTok LIVE) - 2027 Start",
     "company": "TikTok",
     "location": "Singapore, Singapore",
@@ -3872,6 +4070,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Graduate Program 2027 Graduate Recruitment is now live — Join Us and Make Your Impact Learn more",
+    "company": "Deloitte",
+    "location": "Hong Kong",
+    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/graduate-program.html",
+    "score": 80,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "Official",
+    "job_type": "Official Portal",
+    "reasons": [
+      "Matches target keywords: graduate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
+    "first_seen_at": "2026-04-30T13:28:16.756721+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792498+00:00",
+    "original_score": 75,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "Associate – Client Service Group, KYC Team",
     "company": "Natixis Corporate & Investment Banking",
     "location": "Singapore, Singapore",
@@ -3936,28 +4156,6 @@
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: EY."
-  },
-  {
-    "title": "Graduate Program 2027 Graduate Recruitment is now live — Join Us and Make Your Impact Learn more",
-    "company": "Deloitte",
-    "location": "Hong Kong",
-    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/graduate-program.html",
-    "score": 80,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "Official",
-    "job_type": "Official Portal",
-    "reasons": [
-      "Matches target keywords: graduate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Graduate Program Spring Recruitment is now live — Join Us and Make Your Impact Learn more",
-    "first_seen_at": "2026-04-30T13:28:16.756721+00:00",
-    "last_seen_at": "2026-08-20T00:49:36.615925+00:00",
-    "original_score": 75,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore",
@@ -4046,6 +4244,138 @@
     "original_score": 75,
     "company_quality_decision": "keep",
     "company_quality_reason": "Preferred company matched: JPMorgan."
+  },
+  {
+    "title": "Finance & Accounting Associate",
+    "company": "Rohde & Schwarz",
+    "location": "Seoul, Seoul, South Korea",
+    "url": "https://kr.linkedin.com/jobs/view/finance-accounting-associate-at-rohde-schwarz-4453597413",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Korea",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "Finance & Accounting Associate Finance & Accounting Associate Rohde & Schwarz Seoul, Seoul, South Korea Be an early applicant 8 hours ago",
+    "first_seen_at": "2026-08-15T00:49:36.677840+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792334+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Valuation & Modeling Consultant",
+    "company": "Morgan McKinley",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/valuation-modeling-consultant-at-morgan-mckinley-4456073776",
+    "score": 84,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: consultant, valuation",
+      "Relevant role family: finance/accounting/valuation, consulting/strategy/advisory",
+      "Priority company or target employer group."
+    ],
+    "description": "Valuation & Modeling Consultant Valuation & Modeling Consultant Morgan McKinley Tokyo, Japan Be an early applicant 14 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792305+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792307+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: EY."
+  },
+  {
+    "title": "財務・経営企画 / Sr. Finance Analyst, FC Finance/OPS Finance",
+    "company": "Amazon",
+    "location": "Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/%E8%B2%A1%E5%8B%99%E3%83%BB%E7%B5%8C%E5%96%B6%E4%BC%81%E7%94%BB-sr-finance-analyst-fc-finance-ops-finance-at-amazon-4457306894",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, finance",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: finance/accounting/valuation"
+    ],
+    "description": "財務・経営企画 / Sr. Finance Analyst, FC Finance/OPS Finance 財務・経営企画 / Sr. Finance Analyst, FC Finance/OPS Finance Amazon Tokyo, Japan Be an early applicant 6 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792275+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792276+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Business Analyst",
+    "company": "W3Global",
+    "location": "Roppongi, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/business-analyst-at-w3global-4454179367",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, business analyst",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Business Analyst Business Analyst W3Global Roppongi, Tokyo, Japan Be an early applicant 11 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792243+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792245+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Advisory Associate",
+    "company": "Aurora Energy Research",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/advisory-associate-at-aurora-energy-research-4456214238",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, advisory",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Advisory Associate Advisory Associate Aurora Energy Research Tokyo, Tokyo, Japan Be an early applicant 9 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792217+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792219+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
+  },
+  {
+    "title": "Technology Solutions Associate Consultant",
+    "company": "ZS",
+    "location": "Minato, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/technology-solutions-associate-consultant-at-zs-4454141283",
+    "score": 79,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: associate, consultant",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Relevant role family: consulting/strategy/advisory"
+    ],
+    "description": "Technology Solutions Associate Consultant Technology Solutions Associate Consultant ZS Minato, Tokyo, Japan Be an early applicant 7 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792190+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792192+00:00",
+    "original_score": 79,
+    "company_quality_decision": "keep",
+    "company_quality_reason": ""
   },
   {
     "title": "Strategic Finance Analyst (Campus Recruiting Program)",
@@ -4246,28 +4576,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Audit - Technology Assurance | Graduate Associate 2027",
-    "company": "KPMG Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/audit-technology-assurance-graduate-associate-2027-at-kpmg-singapore-4456718283",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Audit - Technology Assurance | Graduate Associate 2027 Audit - Technology Assurance | Graduate Associate 2027 KPMG Singapore Singapore, Singapore Be an early applicant 17 hours ago",
-    "first_seen_at": "2026-08-21T06:34:03.463457+00:00",
-    "last_seen_at": "2026-08-21T06:34:03.463459+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: KPMG."
-  },
-  {
     "title": "Research Analyst, Asia FX & EM Macro Strategy",
     "company": "Barclays",
     "location": "Singapore, Singapore",
@@ -4310,28 +4618,6 @@
     "original_score": 79,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Audit - Graduate Associate 2027",
-    "company": "KPMG Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/audit-graduate-associate-2027-at-kpmg-singapore-4456732207",
-    "score": 84,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: graduate, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Audit - Graduate Associate 2027 Audit - Graduate Associate 2027 KPMG Singapore Singapore, Singapore Be an early applicant 17 hours ago",
-    "first_seen_at": "2026-08-21T06:34:03.463358+00:00",
-    "last_seen_at": "2026-08-21T06:34:03.463360+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: KPMG."
   },
   {
     "title": "Investment Associate (covering fund of funds) for a leading PE firm",
@@ -6864,28 +7150,6 @@
     "company_quality_reason": ""
   },
   {
-    "title": "Finance & Accounting Associate",
-    "company": "Rohde & Schwarz",
-    "location": "Seoul, Seoul, South Korea",
-    "url": "https://kr.linkedin.com/jobs/view/finance-accounting-associate-at-rohde-schwarz-4453597413",
-    "score": 79,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn Korea",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: associate, finance",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Relevant role family: finance/accounting/valuation"
-    ],
-    "description": "Finance & Accounting Associate Finance & Accounting Associate Rohde & Schwarz Seoul, Seoul, South Korea Be an early applicant 8 hours ago",
-    "first_seen_at": "2026-08-15T00:49:36.677840+00:00",
-    "last_seen_at": "2026-08-15T00:49:36.677841+00:00",
-    "original_score": 79,
-    "company_quality_decision": "keep",
-    "company_quality_reason": ""
-  },
-  {
     "title": "Business Analyst – Japan Pharma Commercial Data (1213)",
     "company": "Axtria - Ingenious Insights",
     "location": "Tokyo, Tokyo, Japan",
@@ -7414,6 +7678,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Equity Research - Machinery - Analyst/Associate",
+    "company": "JPMorganChase",
+    "location": "Tokyo, Tokyo, Japan",
+    "url": "https://jp.linkedin.com/jobs/view/equity-research-machinery-analyst-associate-at-jpmorganchase-4438824687",
+    "score": 82,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "LinkedIn Japan",
+    "job_type": "Full-time / Graduate",
+    "reasons": [
+      "Matches target keywords: analyst, associate",
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group."
+    ],
+    "description": "Equity Research - Machinery - Analyst/Associate Equity Research - Machinery - Analyst/Associate JPMorganChase Tokyo, Tokyo, Japan Actively Hiring 8 hours ago",
+    "first_seen_at": "2026-08-21T18:26:51.792391+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792393+00:00",
+    "original_score": 77,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: JPMorgan."
+  },
+  {
     "title": "Digital Media Executive (Welcome Fresh Graduate)",
     "company": "KINESSO",
     "location": "Southern District, Hong Kong SAR",
@@ -7456,28 +7742,6 @@
     "original_score": 77,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Cyber Threat Intelligence Analyst, Associate",
-    "company": "Morgan Stanley",
-    "location": "Singapore, Singapore",
-    "url": "https://sg.linkedin.com/jobs/view/cyber-threat-intelligence-analyst-associate-at-morgan-stanley-4456089475",
-    "score": 82,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "LinkedIn SG",
-    "job_type": "Full-time / Graduate",
-    "reasons": [
-      "Matches target keywords: analyst, associate",
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group."
-    ],
-    "description": "Cyber Threat Intelligence Analyst, Associate Cyber Threat Intelligence Analyst, Associate Morgan Stanley Singapore, Singapore Be an early applicant 1 hour ago",
-    "first_seen_at": "2026-08-21T06:34:03.463809+00:00",
-    "last_seen_at": "2026-08-21T06:34:03.463810+00:00",
-    "original_score": 77,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: EY."
   },
   {
     "title": "Internal Auditor - APAC Regulatory & Financial Operations",
@@ -7656,6 +7920,28 @@
     "company_quality_reason": ""
   },
   {
+    "title": "Internship Program Winter Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
+    "company": "Deloitte",
+    "location": "Hong Kong",
+    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/internship-program.html",
+    "score": 76,
+    "recommendation": "Maybe",
+    "priority": "Medium",
+    "source": "Official",
+    "job_type": "Official Portal",
+    "reasons": [
+      "Looks potentially suitable for graduate / early-career search.",
+      "Priority company or target employer group.",
+      "Relevant location: Hong Kong."
+    ],
+    "description": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
+    "first_seen_at": "2026-04-30T13:28:16.756759+00:00",
+    "last_seen_at": "2026-08-21T18:26:51.792536+00:00",
+    "original_score": 71,
+    "company_quality_decision": "keep",
+    "company_quality_reason": "Preferred company matched: Deloitte."
+  },
+  {
     "title": "Analyst/Associate, OnChain Operations",
     "company": "Galaxy",
     "location": "Hong Kong SAR",
@@ -7676,28 +7962,6 @@
     "original_score": 76,
     "company_quality_decision": "keep",
     "company_quality_reason": ""
-  },
-  {
-    "title": "Internship Program Winter Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
-    "company": "Deloitte",
-    "location": "Hong Kong",
-    "url": "https://www.deloitte.com/cn/en/careers/explore-your-fit/students/internship-program.html",
-    "score": 76,
-    "recommendation": "Maybe",
-    "priority": "Medium",
-    "source": "Official",
-    "job_type": "Official Portal",
-    "reasons": [
-      "Looks potentially suitable for graduate / early-career search.",
-      "Priority company or target employer group.",
-      "Relevant location: Hong Kong."
-    ],
-    "description": "Internship Program Summer Internship Recruitment is now in full swing — Step Forward and Create Impact Learn more",
-    "first_seen_at": "2026-04-30T13:28:16.756759+00:00",
-    "last_seen_at": "2026-08-20T00:49:36.616011+00:00",
-    "original_score": 71,
-    "company_quality_decision": "keep",
-    "company_quality_reason": "Preferred company matched: Deloitte."
   },
   {
     "title": "Data Analyst(Rakuten24) - FMCG Customer Strategy Department, Consumables & Electronics Direct Business",
